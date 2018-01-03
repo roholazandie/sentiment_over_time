@@ -1,0 +1,1894 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d3" />
+  <key attr.name="y" attr.type="double" for="node" id="d2" />
+  <key attr.name="x" attr.type="double" for="node" id="d1" />
+  <key attr.name="importance" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="obsession">
+      <data key="d0">31.0</data>
+      <data key="d1">0.8150088333225801</data>
+      <data key="d2">0.11996917865300782</data>
+    </node>
+    <node id="disaster">
+      <data key="d0">20.0</data>
+      <data key="d1">0.7737027715029107</data>
+      <data key="d2">0.03653139339102439</data>
+    </node>
+    <node id="amp">
+      <data key="d0">24.0</data>
+      <data key="d1">0.7659587821845668</data>
+      <data key="d2">0.2733425369170691</data>
+    </node>
+    <node id="presidency">
+      <data key="d0">16.0</data>
+      <data key="d1">0.8942562277212303</data>
+      <data key="d2">0.20076640225884265</data>
+    </node>
+    <node id="order">
+      <data key="d0">15.0</data>
+      <data key="d1">0.8143867364942892</data>
+      <data key="d2">0.05107959389845902</data>
+    </node>
+    <node id="total">
+      <data key="d0">15.0</data>
+      <data key="d1">0.9442658739227726</data>
+      <data key="d2">0.21892551927852327</data>
+    </node>
+    <node id="like">
+      <data key="d0">38.0</data>
+      <data key="d1">0.7049811825442112</data>
+      <data key="d2">0.24955363777997575</data>
+    </node>
+    <node id="one">
+      <data key="d0">25.0</data>
+      <data key="d1">0.7004492717768869</data>
+      <data key="d2">0.15823521424774212</data>
+    </node>
+    <node id="reminder">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.8705883527888685</data>
+      <data key="d2">0.030262916211484848</data>
+    </node>
+    <node id="country">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.9290352820857587</data>
+      <data key="d2">0.07355175589584272</data>
+    </node>
+    <node id="two">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.8827115269950636</data>
+      <data key="d2">0.10287289234276929</data>
+    </node>
+    <node id="nuclear">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.9543078439869963</data>
+      <data key="d2">0.14826780252841393</data>
+    </node>
+    <node id="claim">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.8675117428473211</data>
+      <data key="d2">0.14668005399332684</data>
+    </node>
+    <node id="anything">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">1.0</data>
+      <data key="d2">0.09054062597980478</data>
+    </node>
+    <node id="put">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.9263528474968383</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="need">
+      <data key="d0">26.0</data>
+      <data key="d1">0.09345273171355695</data>
+      <data key="d2">0.8554010348913499</data>
+    </node>
+    <node id="stop">
+      <data key="d0">21.000000000000004</data>
+      <data key="d1">0.1301813191675703</data>
+      <data key="d2">0.7460377183787065</data>
+    </node>
+    <node id="want">
+      <data key="d0">17.0</data>
+      <data key="d1">0.14791488774279932</data>
+      <data key="d2">0.8175159181569145</data>
+    </node>
+    <node id="magazine">
+      <data key="d0">14.000000000000002</data>
+      <data key="d1">0.020649489793517405</data>
+      <data key="d2">0.8046405025781247</data>
+    </node>
+    <node id="kneeling">
+      <data key="d0">13.0</data>
+      <data key="d1">0.12845460293596395</data>
+      <data key="d2">0.667158198743488</data>
+    </node>
+    <node id="arming">
+      <data key="d0">12.0</data>
+      <data key="d1">0.07189212383103016</data>
+      <data key="d2">0.6788230524134786</data>
+    </node>
+    <node id="militia">
+      <data key="d0">12.0</data>
+      <data key="d1">0.08396985482953415</data>
+      <data key="d2">0.6096786511530808</data>
+    </node>
+    <node id="office">
+      <data key="d0">12.0</data>
+      <data key="d1">0.025443660095049035</data>
+      <data key="d2">0.6469156545963621</data>
+    </node>
+    <node id="promote">
+      <data key="d0">12.0</data>
+      <data key="d1">0.15845467474390326</data>
+      <data key="d2">0.8922946123149555</data>
+    </node>
+    <node id="really">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.7103415921797456</data>
+    </node>
+    <node id="uses">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.048665679235933845</data>
+      <data key="d2">0.7456139848195031</data>
+    </node>
+    <node id="trump">
+      <data key="d0">12.0</data>
+      <data key="d1">0.2151253803294482</data>
+      <data key="d2">0.7082719930318399</data>
+    </node>
+    <node id="year">
+      <data key="d0">13.0</data>
+      <data key="d1">0.390062462675283</data>
+      <data key="d2">0.5805013539876589</data>
+    </node>
+    <node id="donald">
+      <data key="d0">12.0</data>
+      <data key="d1">0.2234442963119533</data>
+      <data key="d2">0.7423686663362695</data>
+    </node>
+    <node id="wall">
+      <data key="d0">9.0</data>
+      <data key="d1">0.0853837469080499</data>
+      <data key="d2">0.7912327526305365</data>
+    </node>
+    <node id="people">
+      <data key="d0">16.0</data>
+      <data key="d1">0.4021531081010189</data>
+      <data key="d2">0.8318317645742478</data>
+    </node>
+    <node id="say">
+      <data key="d0">10.0</data>
+      <data key="d1">0.42247693882870196</data>
+      <data key="d2">0.41516784571418835</data>
+    </node>
+    <node id="know">
+      <data key="d0">20.0</data>
+      <data key="d1">0.400167006436794</data>
+      <data key="d2">0.4862482103938301</data>
+    </node>
+    <node id="going">
+      <data key="d0">13.0</data>
+      <data key="d1">0.3356113148202144</data>
+      <data key="d2">0.8039836038912384</data>
+    </node>
+    <node id="giving">
+      <data key="d0">12.0</data>
+      <data key="d1">0.43701648504116136</data>
+      <data key="d2">0.69975057427127</data>
+    </node>
+    <node id="support">
+      <data key="d0">12.0</data>
+      <data key="d1">0.3463939570215404</data>
+      <data key="d2">0.6667133909933636</data>
+    </node>
+    <node id="us">
+      <data key="d0">12.0</data>
+      <data key="d1">0.38778117386061245</data>
+      <data key="d2">0.7036978457673851</data>
+    </node>
+    <node id="last">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.46253006141029374</data>
+      <data key="d2">0.8070089896465674</data>
+    </node>
+    <node id="won">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.35166648504360093</data>
+      <data key="d2">0.8748051734679464</data>
+    </node>
+    <node id="election">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.4337513419171176</data>
+      <data key="d2">0.7630089000301756</data>
+    </node>
+    <node id="meeting">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.31422376032119614</data>
+      <data key="d2">0.7124355427007665</data>
+    </node>
+    <node id="considering">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.2761383304848197</data>
+      <data key="d2">0.6215097846294542</data>
+    </node>
+    <node id="finger">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.35718731550195265</data>
+      <data key="d2">0.7607432480764807</data>
+    </node>
+    <node id="person">
+      <data key="d0">17.0</data>
+      <data key="d1">0.5560228663644968</data>
+      <data key="d2">0.31272659497111494</data>
+    </node>
+    <node id="would">
+      <data key="d0">20.0</data>
+      <data key="d1">0.7582719771829902</data>
+      <data key="d2">0.560717905412405</data>
+    </node>
+    <node id="took">
+      <data key="d0">18.0</data>
+      <data key="d1">0.6974128356488768</data>
+      <data key="d2">0.4530484603395154</data>
+    </node>
+    <node id="guy">
+      <data key="d0">18.0</data>
+      <data key="d1">0.7843592503992518</data>
+      <data key="d2">0.47328168488502564</data>
+    </node>
+    <node id="still">
+      <data key="d0">16.0</data>
+      <data key="d1">0.6704924508791639</data>
+      <data key="d2">0.3849291507643769</data>
+    </node>
+    <node id="tweets">
+      <data key="d0">16.0</data>
+      <data key="d1">0.6389778277207285</data>
+      <data key="d2">0.5455635675291178</data>
+    </node>
+    <node id="fuck">
+      <data key="d0">15.0</data>
+      <data key="d1">0.6161417267903824</data>
+      <data key="d2">0.3990356546815792</data>
+    </node>
+    <node id="married">
+      <data key="d0">15.0</data>
+      <data key="d1">0.5900219905953942</data>
+      <data key="d2">0.44520499347793047</data>
+    </node>
+    <node id="try">
+      <data key="d0">15.0</data>
+      <data key="d1">0.7215323741870945</data>
+      <data key="d2">0.5030518855773017</data>
+    </node>
+    <node id="says">
+      <data key="d0">15.0</data>
+      <data key="d1">0.7411247410600968</data>
+      <data key="d2">0.41833307948699827</data>
+    </node>
+    <node id="named">
+      <data key="d0">13.0</data>
+      <data key="d1">0.6726966884811559</data>
+      <data key="d2">0.519273524278795</data>
+    </node>
+    <node id="sexual">
+      <data key="d0">13.0</data>
+      <data key="d1">0.6494829537648498</data>
+      <data key="d2">0.4508150733443915</data>
+    </node>
+    <node id="dont">
+      <data key="d0">19.0</data>
+      <data key="d1">0.36636239731362535</data>
+      <data key="d2">0.08996964314154102</data>
+    </node>
+    <node id="could">
+      <data key="d0">16.0</data>
+      <data key="d1">0.3292558824226416</data>
+      <data key="d2">0.20980199700494806</data>
+    </node>
+    <node id="golf">
+      <data key="d0">12.0</data>
+      <data key="d1">0.4189242216068707</data>
+      <data key="d2">0.25313276862197576</data>
+    </node>
+    <node id="beat">
+      <data key="d0">12.0</data>
+      <data key="d1">0.36253817212752765</data>
+      <data key="d2">0.16377235889576044</data>
+    </node>
+    <node id="tweet">
+      <data key="d0">10.0</data>
+      <data key="d1">0.4934539189829122</data>
+      <data key="d2">0.21048160482668934</data>
+    </node>
+    <node id="back">
+      <data key="d0">10.0</data>
+      <data key="d1">0.46131874718260435</data>
+      <data key="d2">0.1491151042261349</data>
+    </node>
+    <node id="rape">
+      <data key="d0">10.0</data>
+      <data key="d1">0.43028291493726706</data>
+      <data key="d2">0.189998983336189</data>
+    </node>
+    <node id="taxpayer">
+      <data key="d0">9.0</data>
+      <data key="d1">0.34337998474622766</data>
+      <data key="d2">0.2636298862465087</data>
+    </node>
+    <node id="left">
+      <data key="d0">9.0</data>
+      <data key="d1">0.5204399371348513</data>
+      <data key="d2">0.1435711519512538</data>
+    </node>
+    <node id="golfing">
+      <data key="d0">9.0</data>
+      <data key="d1">0.4384008162725383</data>
+      <data key="d2">0.08766143383129243</data>
+    </node>
+    <edge source="obsession" target="disaster">
+      <data key="d3">0.06833105553475571</data>
+    </edge>
+    <edge source="obsession" target="amp">
+      <data key="d3">1.8885669200910153</data>
+    </edge>
+    <edge source="obsession" target="presidency">
+      <data key="d3">0.0331365461689941</data>
+    </edge>
+    <edge source="obsession" target="order">
+      <data key="d3">0.05951235444216776</data>
+    </edge>
+    <edge source="obsession" target="total">
+      <data key="d3">0.09313958308486164</data>
+    </edge>
+    <edge source="obsession" target="like">
+      <data key="d3">1.9892364305274883</data>
+    </edge>
+    <edge source="obsession" target="one">
+      <data key="d3">1.8787867710648347</data>
+    </edge>
+    <edge source="obsession" target="reminder">
+      <data key="d3">0.8901628317224902</data>
+    </edge>
+    <edge source="obsession" target="country">
+      <data key="d3">1.0534617123001198</data>
+    </edge>
+    <edge source="obsession" target="two">
+      <data key="d3">0.9015240053128002</data>
+    </edge>
+    <edge source="obsession" target="nuclear">
+      <data key="d3">0.5361101614584002</data>
+    </edge>
+    <edge source="obsession" target="claim">
+      <data key="d3">1.1801261270679002</data>
+    </edge>
+    <edge source="obsession" target="anything">
+      <data key="d3">0.490887121470512</data>
+    </edge>
+    <edge source="obsession" target="put">
+      <data key="d3">0.4796024952142338</data>
+    </edge>
+    <edge source="disaster" target="amp">
+      <data key="d3">1.3624773486181523</data>
+    </edge>
+    <edge source="disaster" target="presidency">
+      <data key="d3">0.012345379585197571</data>
+    </edge>
+    <edge source="disaster" target="order">
+      <data key="d3">0.010532573110529023</data>
+    </edge>
+    <edge source="disaster" target="total">
+      <data key="d3">0.0049570654501992035</data>
+    </edge>
+    <edge source="disaster" target="like">
+      <data key="d3">1.4842619775244108</data>
+    </edge>
+    <edge source="disaster" target="one">
+      <data key="d3">1.4407926541880878</data>
+    </edge>
+    <edge source="disaster" target="reminder">
+      <data key="d3">0.5804540857542699</data>
+    </edge>
+    <edge source="disaster" target="country">
+      <data key="d3">0.7421239002510119</data>
+    </edge>
+    <edge source="disaster" target="two">
+      <data key="d3">0.410947731091201</data>
+    </edge>
+    <edge source="disaster" target="nuclear">
+      <data key="d3">0.3473825022552403</data>
+    </edge>
+    <edge source="disaster" target="claim">
+      <data key="d3">0.9259771665691512</data>
+    </edge>
+    <edge source="disaster" target="anything">
+      <data key="d3">0.2870839686356468</data>
+    </edge>
+    <edge source="disaster" target="put">
+      <data key="d3">0.281022079838396</data>
+    </edge>
+    <edge source="amp" target="presidency">
+      <data key="d3">1.204354277344631</data>
+    </edge>
+    <edge source="amp" target="order">
+      <data key="d3">1.126727230383951</data>
+    </edge>
+    <edge source="amp" target="total">
+      <data key="d3">1.0544672172527587</data>
+    </edge>
+    <edge source="amp" target="like">
+      <data key="d3">0.6554699843819735</data>
+    </edge>
+    <edge source="amp" target="one">
+      <data key="d3">0.9478945400939343</data>
+    </edge>
+    <edge source="amp" target="reminder">
+      <data key="d3">1.128262151300134</data>
+    </edge>
+    <edge source="amp" target="country">
+      <data key="d3">0.6713621092039272</data>
+    </edge>
+    <edge source="amp" target="two">
+      <data key="d3">1.0427069327283367</data>
+    </edge>
+    <edge source="amp" target="nuclear">
+      <data key="d3">1.2172286117027462</data>
+    </edge>
+    <edge source="amp" target="claim">
+      <data key="d3">1.4183799627891132</data>
+    </edge>
+    <edge source="amp" target="anything">
+      <data key="d3">0.6848901385113977</data>
+    </edge>
+    <edge source="amp" target="put">
+      <data key="d3">0.7049100985753008</data>
+    </edge>
+    <edge source="amp" target="person">
+      <data key="d3">0.9217055506063814</data>
+    </edge>
+    <edge source="amp" target="would">
+      <data key="d3">0.25108238884426937</data>
+    </edge>
+    <edge source="amp" target="took">
+      <data key="d3">0.922087504530065</data>
+    </edge>
+    <edge source="amp" target="guy">
+      <data key="d3">0.7704237250525557</data>
+    </edge>
+    <edge source="amp" target="still">
+      <data key="d3">0.4274532664029569</data>
+    </edge>
+    <edge source="amp" target="tweets">
+      <data key="d3">0.5596748307738607</data>
+    </edge>
+    <edge source="amp" target="fuck">
+      <data key="d3">0.8945665212307371</data>
+    </edge>
+    <edge source="amp" target="married">
+      <data key="d3">0.8935531090140477</data>
+    </edge>
+    <edge source="amp" target="try">
+      <data key="d3">0.8928060615886274</data>
+    </edge>
+    <edge source="amp" target="says">
+      <data key="d3">1.2364248977646353</data>
+    </edge>
+    <edge source="amp" target="year">
+      <data key="d3">1.187334339482146</data>
+    </edge>
+    <edge source="amp" target="named">
+      <data key="d3">0.36244810019816026</data>
+    </edge>
+    <edge source="amp" target="sexual">
+      <data key="d3">1.5795812322272014</data>
+    </edge>
+    <edge source="presidency" target="order">
+      <data key="d3">0.004307210662953603</data>
+    </edge>
+    <edge source="presidency" target="total">
+      <data key="d3">0.018969895905577717</data>
+    </edge>
+    <edge source="presidency" target="like">
+      <data key="d3">1.4671868507643115</data>
+    </edge>
+    <edge source="presidency" target="one">
+      <data key="d3">1.4433454939299948</data>
+    </edge>
+    <edge source="presidency" target="reminder">
+      <data key="d3">0.6243041339818524</data>
+    </edge>
+    <edge source="presidency" target="country">
+      <data key="d3">0.7634090369564461</data>
+    </edge>
+    <edge source="presidency" target="two">
+      <data key="d3">0.6710572901173287</data>
+    </edge>
+    <edge source="presidency" target="nuclear">
+      <data key="d3">0.35711839485895935</data>
+    </edge>
+    <edge source="presidency" target="claim">
+      <data key="d3">1.0038295512910882</data>
+    </edge>
+    <edge source="presidency" target="anything">
+      <data key="d3">0.25860029293519965</data>
+    </edge>
+    <edge source="presidency" target="put">
+      <data key="d3">0.2533143874707487</data>
+    </edge>
+    <edge source="order" target="total">
+      <data key="d3">0.009254331115094255</data>
+    </edge>
+    <edge source="order" target="like">
+      <data key="d3">1.3702644671132649</data>
+    </edge>
+    <edge source="order" target="one">
+      <data key="d3">1.3585038065419153</data>
+    </edge>
+    <edge source="order" target="reminder">
+      <data key="d3">0.5582905271167132</data>
+    </edge>
+    <edge source="order" target="country">
+      <data key="d3">0.701902385232099</data>
+    </edge>
+    <edge source="order" target="two">
+      <data key="d3">0.6246442414525235</data>
+    </edge>
+    <edge source="order" target="nuclear">
+      <data key="d3">0.32294370702209246</data>
+    </edge>
+    <edge source="order" target="claim">
+      <data key="d3">0.9406765977739896</data>
+    </edge>
+    <edge source="order" target="anything">
+      <data key="d3">0.22558670616596024</data>
+    </edge>
+    <edge source="order" target="put">
+      <data key="d3">0.22411481427299382</data>
+    </edge>
+    <edge source="total" target="like">
+      <data key="d3">1.3396547560831293</data>
+    </edge>
+    <edge source="total" target="one">
+      <data key="d3">1.3184147405475357</data>
+    </edge>
+    <edge source="total" target="reminder">
+      <data key="d3">0.48512619424725023</data>
+    </edge>
+    <edge source="total" target="country">
+      <data key="d3">0.6575963129002279</data>
+    </edge>
+    <edge source="total" target="two">
+      <data key="d3">0.4418345665585699</data>
+    </edge>
+    <edge source="total" target="nuclear">
+      <data key="d3">0.30153481266186055</data>
+    </edge>
+    <edge source="total" target="claim">
+      <data key="d3">0.8165996659849216</data>
+    </edge>
+    <edge source="total" target="anything">
+      <data key="d3">0.23916118611684292</data>
+    </edge>
+    <edge source="total" target="put">
+      <data key="d3">0.23869635489332186</data>
+    </edge>
+    <edge source="like" target="one">
+      <data key="d3">0.11796252298986006</data>
+    </edge>
+    <edge source="like" target="reminder">
+      <data key="d3">0.8738555118866129</data>
+    </edge>
+    <edge source="like" target="country">
+      <data key="d3">0.704222145763895</data>
+    </edge>
+    <edge source="like" target="two">
+      <data key="d3">1.4085499600071216</data>
+    </edge>
+    <edge source="like" target="nuclear">
+      <data key="d3">0.9887368786190729</data>
+    </edge>
+    <edge source="like" target="claim">
+      <data key="d3">1.5763666698135428</data>
+    </edge>
+    <edge source="like" target="anything">
+      <data key="d3">0.6905104004186778</data>
+    </edge>
+    <edge source="like" target="put">
+      <data key="d3">0.7169328505812155</data>
+    </edge>
+    <edge source="like" target="person">
+      <data key="d3">0.4908914729952513</data>
+    </edge>
+    <edge source="like" target="would">
+      <data key="d3">0.32530099999514306</data>
+    </edge>
+    <edge source="like" target="took">
+      <data key="d3">0.7800322992802726</data>
+    </edge>
+    <edge source="like" target="guy">
+      <data key="d3">0.7099918631977773</data>
+    </edge>
+    <edge source="like" target="still">
+      <data key="d3">0.480069071989072</data>
+    </edge>
+    <edge source="like" target="tweets">
+      <data key="d3">0.35936556354808696</data>
+    </edge>
+    <edge source="like" target="fuck">
+      <data key="d3">0.7535711727117118</data>
+    </edge>
+    <edge source="like" target="married">
+      <data key="d3">0.7529156034092072</data>
+    </edge>
+    <edge source="like" target="try">
+      <data key="d3">0.7524291755194825</data>
+    </edge>
+    <edge source="like" target="says">
+      <data key="d3">1.34840385861948</data>
+    </edge>
+    <edge source="like" target="year">
+      <data key="d3">0.6871459158689903</data>
+    </edge>
+    <edge source="like" target="named">
+      <data key="d3">0.7392527805241352</data>
+    </edge>
+    <edge source="like" target="sexual">
+      <data key="d3">1.5356186417888296</data>
+    </edge>
+    <edge source="like" target="know">
+      <data key="d3">0.34960650452810194</data>
+    </edge>
+    <edge source="like" target="dont">
+      <data key="d3">0.21258271836593773</data>
+    </edge>
+    <edge source="like" target="could">
+      <data key="d3">0.19378047422363773</data>
+    </edge>
+    <edge source="like" target="golf">
+      <data key="d3">0.3171174054538783</data>
+    </edge>
+    <edge source="like" target="beat">
+      <data key="d3">0.34517221567969086</data>
+    </edge>
+    <edge source="like" target="tweet">
+      <data key="d3">0.9811308862722075</data>
+    </edge>
+    <edge source="like" target="say">
+      <data key="d3">1.111952216439346</data>
+    </edge>
+    <edge source="like" target="back">
+      <data key="d3">0.5472634141795873</data>
+    </edge>
+    <edge source="like" target="rape">
+      <data key="d3">0.6173434498934282</data>
+    </edge>
+    <edge source="like" target="taxpayer">
+      <data key="d3">0.3550034676720716</data>
+    </edge>
+    <edge source="like" target="left">
+      <data key="d3">0.36378548233606317</data>
+    </edge>
+    <edge source="like" target="golfing">
+      <data key="d3">0.32003804255829726</data>
+    </edge>
+    <edge source="one" target="reminder">
+      <data key="d3">0.9362987132292558</data>
+    </edge>
+    <edge source="one" target="country">
+      <data key="d3">0.8228851695039383</data>
+    </edge>
+    <edge source="one" target="two">
+      <data key="d3">1.1537857391064095</data>
+    </edge>
+    <edge source="one" target="nuclear">
+      <data key="d3">0.9634676676897024</data>
+    </edge>
+    <edge source="one" target="claim">
+      <data key="d3">1.3398857342546675</data>
+    </edge>
+    <edge source="one" target="anything">
+      <data key="d3">0.5545373713218239</data>
+    </edge>
+    <edge source="one" target="put">
+      <data key="d3">0.569094348845936</data>
+    </edge>
+    <edge source="one" target="know">
+      <data key="d3">0.5061604688141288</data>
+    </edge>
+    <edge source="one" target="dont">
+      <data key="d3">0.2734607749643557</data>
+    </edge>
+    <edge source="one" target="person">
+      <data key="d3">0.6874601910706147</data>
+    </edge>
+    <edge source="one" target="could">
+      <data key="d3">0.18852946124230088</data>
+    </edge>
+    <edge source="one" target="golf">
+      <data key="d3">0.429437396496707</data>
+    </edge>
+    <edge source="one" target="beat">
+      <data key="d3">0.23076012731350423</data>
+    </edge>
+    <edge source="one" target="tweet">
+      <data key="d3">1.0277725871122452</data>
+    </edge>
+    <edge source="one" target="say">
+      <data key="d3">1.141562508983574</data>
+    </edge>
+    <edge source="one" target="back">
+      <data key="d3">0.8076235424185056</data>
+    </edge>
+    <edge source="one" target="rape">
+      <data key="d3">0.5206661798095809</data>
+    </edge>
+    <edge source="one" target="taxpayer">
+      <data key="d3">0.23579680903516254</data>
+    </edge>
+    <edge source="one" target="left">
+      <data key="d3">0.2407750773829442</data>
+    </edge>
+    <edge source="one" target="golfing">
+      <data key="d3">0.21896586813248226</data>
+    </edge>
+    <edge source="reminder" target="country">
+      <data key="d3">0.8503452672279121</data>
+    </edge>
+    <edge source="reminder" target="two">
+      <data key="d3">0.8433659801244656</data>
+    </edge>
+    <edge source="reminder" target="nuclear">
+      <data key="d3">0.22537473780840606</data>
+    </edge>
+    <edge source="reminder" target="claim">
+      <data key="d3">0.35893286418300774</data>
+    </edge>
+    <edge source="reminder" target="anything">
+      <data key="d3">0.46889162923625305</data>
+    </edge>
+    <edge source="reminder" target="put">
+      <data key="d3">0.5018069342055054</data>
+    </edge>
+    <edge source="country" target="two">
+      <data key="d3">0.9104131688367577</data>
+    </edge>
+    <edge source="country" target="nuclear">
+      <data key="d3">0.6396657042384835</data>
+    </edge>
+    <edge source="country" target="claim">
+      <data key="d3">1.1761094308131441</data>
+    </edge>
+    <edge source="country" target="anything">
+      <data key="d3">0.5493512849176634</data>
+    </edge>
+    <edge source="country" target="put">
+      <data key="d3">0.5637054271192031</data>
+    </edge>
+    <edge source="two" target="nuclear">
+      <data key="d3">0.5787581835542244</data>
+    </edge>
+    <edge source="two" target="claim">
+      <data key="d3">1.1510497666225132</data>
+    </edge>
+    <edge source="two" target="anything">
+      <data key="d3">0.5034194067042996</data>
+    </edge>
+    <edge source="two" target="put">
+      <data key="d3">0.48917712813643754</data>
+    </edge>
+    <edge source="nuclear" target="claim">
+      <data key="d3">1.021965502471591</data>
+    </edge>
+    <edge source="nuclear" target="anything">
+      <data key="d3">0.3732834618152546</data>
+    </edge>
+    <edge source="nuclear" target="put">
+      <data key="d3">0.37992018182087406</data>
+    </edge>
+    <edge source="claim" target="anything">
+      <data key="d3">0.5806458657627575</data>
+    </edge>
+    <edge source="claim" target="put">
+      <data key="d3">0.6146456579516921</data>
+    </edge>
+    <edge source="anything" target="put">
+      <data key="d3">0.002648235956528764</data>
+    </edge>
+    <edge source="need" target="stop">
+      <data key="d3">0.16090101892686</data>
+    </edge>
+    <edge source="need" target="want">
+      <data key="d3">0.4422173392947402</data>
+    </edge>
+    <edge source="need" target="magazine">
+      <data key="d3">0.6390200666624811</data>
+    </edge>
+    <edge source="need" target="kneeling">
+      <data key="d3">0.16197205045153162</data>
+    </edge>
+    <edge source="need" target="arming">
+      <data key="d3">0.13152325114852195</data>
+    </edge>
+    <edge source="need" target="militia">
+      <data key="d3">0.13152573925346103</data>
+    </edge>
+    <edge source="need" target="office">
+      <data key="d3">0.4419917390018465</data>
+    </edge>
+    <edge source="need" target="promote">
+      <data key="d3">0.3123217343025084</data>
+    </edge>
+    <edge source="need" target="really">
+      <data key="d3">0.5511190981946918</data>
+    </edge>
+    <edge source="need" target="uses">
+      <data key="d3">0.22105129407704552</data>
+    </edge>
+    <edge source="need" target="trump">
+      <data key="d3">1.3469716045232523</data>
+    </edge>
+    <edge source="need" target="year">
+      <data key="d3">0.8039104043035934</data>
+    </edge>
+    <edge source="need" target="donald">
+      <data key="d3">1.1225083125765827</data>
+    </edge>
+    <edge source="need" target="wall">
+      <data key="d3">0.4379111269094888</data>
+    </edge>
+    <edge source="stop" target="want">
+      <data key="d3">0.5338432083541526</data>
+    </edge>
+    <edge source="stop" target="magazine">
+      <data key="d3">0.8762264647909638</data>
+    </edge>
+    <edge source="stop" target="kneeling">
+      <data key="d3">0.0022244856180008554</data>
+    </edge>
+    <edge source="stop" target="arming">
+      <data key="d3">0.01086562655690236</data>
+    </edge>
+    <edge source="stop" target="militia">
+      <data key="d3">0.01086350820079855</data>
+    </edge>
+    <edge source="stop" target="office">
+      <data key="d3">0.43473681197795266</data>
+    </edge>
+    <edge source="stop" target="promote">
+      <data key="d3">0.2861686366356733</data>
+    </edge>
+    <edge source="stop" target="really">
+      <data key="d3">0.5709493048348241</data>
+    </edge>
+    <edge source="stop" target="uses">
+      <data key="d3">0.39064497249671926</data>
+    </edge>
+    <edge source="stop" target="trump">
+      <data key="d3">1.3164571834178913</data>
+    </edge>
+    <edge source="stop" target="year">
+      <data key="d3">1.3432133992677124</data>
+    </edge>
+    <edge source="stop" target="donald">
+      <data key="d3">1.1340102300695487</data>
+    </edge>
+    <edge source="stop" target="wall">
+      <data key="d3">0.48761613081096494</data>
+    </edge>
+    <edge source="want" target="magazine">
+      <data key="d3">0.7482151634310413</data>
+    </edge>
+    <edge source="want" target="kneeling">
+      <data key="d3">0.36873691630011235</data>
+    </edge>
+    <edge source="want" target="arming">
+      <data key="d3">0.29922337861234477</data>
+    </edge>
+    <edge source="want" target="militia">
+      <data key="d3">0.2992296351449277</data>
+    </edge>
+    <edge source="want" target="office">
+      <data key="d3">0.3903059017935367</data>
+    </edge>
+    <edge source="want" target="promote">
+      <data key="d3">0.23880791065136545</data>
+    </edge>
+    <edge source="want" target="really">
+      <data key="d3">0.3269223971315512</data>
+    </edge>
+    <edge source="want" target="uses">
+      <data key="d3">0.5766751865107891</data>
+    </edge>
+    <edge source="want" target="trump">
+      <data key="d3">0.5329349835587267</data>
+    </edge>
+    <edge source="want" target="year">
+      <data key="d3">1.1439855970755535</data>
+    </edge>
+    <edge source="want" target="donald">
+      <data key="d3">0.5501157919251558</data>
+    </edge>
+    <edge source="want" target="wall">
+      <data key="d3">0.5948200989417972</data>
+    </edge>
+    <edge source="magazine" target="kneeling">
+      <data key="d3">0.7849723603454919</data>
+    </edge>
+    <edge source="magazine" target="arming">
+      <data key="d3">0.624696582647802</data>
+    </edge>
+    <edge source="magazine" target="militia">
+      <data key="d3">0.6247094460811184</data>
+    </edge>
+    <edge source="magazine" target="office">
+      <data key="d3">0.36910413998100594</data>
+    </edge>
+    <edge source="magazine" target="promote">
+      <data key="d3">0.5071308982203698</data>
+    </edge>
+    <edge source="magazine" target="really">
+      <data key="d3">0.4421651037593461</data>
+    </edge>
+    <edge source="magazine" target="uses">
+      <data key="d3">0.8246318871731356</data>
+    </edge>
+    <edge source="magazine" target="trump">
+      <data key="d3">0.9714821477097944</data>
+    </edge>
+    <edge source="magazine" target="year">
+      <data key="d3">0.46534657741917707</data>
+    </edge>
+    <edge source="magazine" target="donald">
+      <data key="d3">0.9679551736720644</data>
+    </edge>
+    <edge source="magazine" target="wall">
+      <data key="d3">0.7866292390158198</data>
+    </edge>
+    <edge source="kneeling" target="arming">
+      <data key="d3">0.019316838948389745</data>
+    </edge>
+    <edge source="kneeling" target="militia">
+      <data key="d3">0.019314100300633415</data>
+    </edge>
+    <edge source="kneeling" target="office">
+      <data key="d3">0.44437468215807485</data>
+    </edge>
+    <edge source="kneeling" target="promote">
+      <data key="d3">0.29835888896605406</data>
+    </edge>
+    <edge source="kneeling" target="really">
+      <data key="d3">0.5811269905076472</data>
+    </edge>
+    <edge source="kneeling" target="uses">
+      <data key="d3">0.40004121186401786</data>
+    </edge>
+    <edge source="kneeling" target="trump">
+      <data key="d3">1.3777246491366837</data>
+    </edge>
+    <edge source="kneeling" target="year">
+      <data key="d3">1.3857126338250885</data>
+    </edge>
+    <edge source="kneeling" target="donald">
+      <data key="d3">1.190025718173195</data>
+    </edge>
+    <edge source="kneeling" target="wall">
+      <data key="d3">0.541986780425265</data>
+    </edge>
+    <edge source="arming" target="militia">
+      <data key="d3">1.1981122415809082e-10</data>
+    </edge>
+    <edge source="arming" target="office">
+      <data key="d3">0.3390308189666402</data>
+    </edge>
+    <edge source="arming" target="promote">
+      <data key="d3">0.21449135453943055</data>
+    </edge>
+    <edge source="arming" target="really">
+      <data key="d3">0.467327635457622</data>
+    </edge>
+    <edge source="arming" target="uses">
+      <data key="d3">0.32046396944530786</data>
+    </edge>
+    <edge source="arming" target="trump">
+      <data key="d3">1.1048659517356412</data>
+    </edge>
+    <edge source="arming" target="year">
+      <data key="d3">1.13237501567264</data>
+    </edge>
+    <edge source="arming" target="donald">
+      <data key="d3">0.9423308819449214</data>
+    </edge>
+    <edge source="arming" target="wall">
+      <data key="d3">0.4173621261734991</data>
+    </edge>
+    <edge source="militia" target="office">
+      <data key="d3">0.339040663628122</data>
+    </edge>
+    <edge source="militia" target="promote">
+      <data key="d3">0.21449823159913986</data>
+    </edge>
+    <edge source="militia" target="really">
+      <data key="d3">0.46733850800889604</data>
+    </edge>
+    <edge source="militia" target="uses">
+      <data key="d3">0.32046980318920637</data>
+    </edge>
+    <edge source="militia" target="trump">
+      <data key="d3">1.104884041390278</data>
+    </edge>
+    <edge source="militia" target="year">
+      <data key="d3">1.1323947161042194</data>
+    </edge>
+    <edge source="militia" target="donald">
+      <data key="d3">0.9423460219214399</data>
+    </edge>
+    <edge source="militia" target="wall">
+      <data key="d3">0.4173729818708757</data>
+    </edge>
+    <edge source="office" target="promote">
+      <data key="d3">0.09250053647107112</data>
+    </edge>
+    <edge source="office" target="really">
+      <data key="d3">0.14457231550903638</data>
+    </edge>
+    <edge source="office" target="uses">
+      <data key="d3">0.3141668594725434</data>
+    </edge>
+    <edge source="office" target="trump">
+      <data key="d3">1.0331633441730004</data>
+    </edge>
+    <edge source="office" target="year">
+      <data key="d3">0.9304372509112051</data>
+    </edge>
+    <edge source="office" target="donald">
+      <data key="d3">0.8205551513956644</data>
+    </edge>
+    <edge source="office" target="wall">
+      <data key="d3">0.41808369629432324</data>
+    </edge>
+    <edge source="promote" target="really">
+      <data key="d3">0.08250979419277661</data>
+    </edge>
+    <edge source="promote" target="uses">
+      <data key="d3">0.21304044962265256</data>
+    </edge>
+    <edge source="promote" target="trump">
+      <data key="d3">0.9265871123240501</data>
+    </edge>
+    <edge source="promote" target="year">
+      <data key="d3">0.8397117961602499</data>
+    </edge>
+    <edge source="promote" target="donald">
+      <data key="d3">0.6853146368205736</data>
+    </edge>
+    <edge source="promote" target="wall">
+      <data key="d3">0.33514697680603583</data>
+    </edge>
+    <edge source="really" target="uses">
+      <data key="d3">0.5149995606923128</data>
+    </edge>
+    <edge source="really" target="trump">
+      <data key="d3">0.9515172405301077</data>
+    </edge>
+    <edge source="really" target="year">
+      <data key="d3">0.7280818308262922</data>
+    </edge>
+    <edge source="really" target="donald">
+      <data key="d3">0.6875523616404393</data>
+    </edge>
+    <edge source="really" target="wall">
+      <data key="d3">0.5419515229825201</data>
+    </edge>
+    <edge source="uses" target="trump">
+      <data key="d3">1.1755988385018596</data>
+    </edge>
+    <edge source="uses" target="year">
+      <data key="d3">0.892648659946097</data>
+    </edge>
+    <edge source="uses" target="donald">
+      <data key="d3">0.994566365233224</data>
+    </edge>
+    <edge source="uses" target="wall">
+      <data key="d3">0.26134152828940216</data>
+    </edge>
+    <edge source="trump" target="year">
+      <data key="d3">0.6921954207375569</data>
+    </edge>
+    <edge source="trump" target="donald">
+      <data key="d3">0.16417016734113182</data>
+    </edge>
+    <edge source="trump" target="wall">
+      <data key="d3">1.0290727447225834</data>
+    </edge>
+    <edge source="trump" target="people">
+      <data key="d3">0.4818416545042049</data>
+    </edge>
+    <edge source="trump" target="say">
+      <data key="d3">0.38338694269037754</data>
+    </edge>
+    <edge source="trump" target="know">
+      <data key="d3">0.7872375359017932</data>
+    </edge>
+    <edge source="trump" target="going">
+      <data key="d3">0.3449963965913055</data>
+    </edge>
+    <edge source="trump" target="giving">
+      <data key="d3">0.8570334113525713</data>
+    </edge>
+    <edge source="trump" target="support">
+      <data key="d3">1.5311371468518429</data>
+    </edge>
+    <edge source="trump" target="us">
+      <data key="d3">0.8803431414909711</data>
+    </edge>
+    <edge source="trump" target="last">
+      <data key="d3">0.48784096527261345</data>
+    </edge>
+    <edge source="trump" target="won">
+      <data key="d3">0.5707131267645428</data>
+    </edge>
+    <edge source="trump" target="election">
+      <data key="d3">0.7686431432878399</data>
+    </edge>
+    <edge source="trump" target="meeting">
+      <data key="d3">1.04309548132245</data>
+    </edge>
+    <edge source="trump" target="considering">
+      <data key="d3">0.7367895830424477</data>
+    </edge>
+    <edge source="trump" target="finger">
+      <data key="d3">0.9411219609635799</data>
+    </edge>
+    <edge source="year" target="donald">
+      <data key="d3">0.8112822176195815</data>
+    </edge>
+    <edge source="year" target="wall">
+      <data key="d3">0.8416477585881577</data>
+    </edge>
+    <edge source="year" target="person">
+      <data key="d3">0.20949011042092877</data>
+    </edge>
+    <edge source="year" target="would">
+      <data key="d3">0.6131704090508933</data>
+    </edge>
+    <edge source="year" target="took">
+      <data key="d3">1.1522966765628766</data>
+    </edge>
+    <edge source="year" target="guy">
+      <data key="d3">0.6329959670546724</data>
+    </edge>
+    <edge source="year" target="still">
+      <data key="d3">0.9449386641736893</data>
+    </edge>
+    <edge source="year" target="tweets">
+      <data key="d3">0.9016874863267844</data>
+    </edge>
+    <edge source="year" target="fuck">
+      <data key="d3">1.1717228084417706</data>
+    </edge>
+    <edge source="year" target="married">
+      <data key="d3">1.1714395914611704</data>
+    </edge>
+    <edge source="year" target="try">
+      <data key="d3">1.1712130287034446</data>
+    </edge>
+    <edge source="year" target="says">
+      <data key="d3">0.38130963061248835</data>
+    </edge>
+    <edge source="year" target="named">
+      <data key="d3">0.9599766630099418</data>
+    </edge>
+    <edge source="year" target="sexual">
+      <data key="d3">1.658586314681515</data>
+    </edge>
+    <edge source="donald" target="wall">
+      <data key="d3">0.8909203751165914</data>
+    </edge>
+    <edge source="donald" target="people">
+      <data key="d3">0.6623768675637511</data>
+    </edge>
+    <edge source="donald" target="say">
+      <data key="d3">0.4469751887214387</data>
+    </edge>
+    <edge source="donald" target="know">
+      <data key="d3">0.5564726328366006</data>
+    </edge>
+    <edge source="donald" target="going">
+      <data key="d3">0.5701230853568608</data>
+    </edge>
+    <edge source="donald" target="giving">
+      <data key="d3">0.5041810710255413</data>
+    </edge>
+    <edge source="donald" target="support">
+      <data key="d3">1.6608491651971717</data>
+    </edge>
+    <edge source="donald" target="us">
+      <data key="d3">0.6318180938015453</data>
+    </edge>
+    <edge source="donald" target="last">
+      <data key="d3">0.693929900457742</data>
+    </edge>
+    <edge source="donald" target="won">
+      <data key="d3">0.6208754547252227</data>
+    </edge>
+    <edge source="donald" target="election">
+      <data key="d3">0.8503830920777216</data>
+    </edge>
+    <edge source="donald" target="meeting">
+      <data key="d3">0.8318358683861611</data>
+    </edge>
+    <edge source="donald" target="considering">
+      <data key="d3">0.8631799434102402</data>
+    </edge>
+    <edge source="donald" target="finger">
+      <data key="d3">0.6733720573315441</data>
+    </edge>
+    <edge source="people" target="say">
+      <data key="d3">0.20742865886881082</data>
+    </edge>
+    <edge source="people" target="know">
+      <data key="d3">0.6440827444031664</data>
+    </edge>
+    <edge source="people" target="going">
+      <data key="d3">0.2168537869279158</data>
+    </edge>
+    <edge source="people" target="giving">
+      <data key="d3">0.8330831337948825</data>
+    </edge>
+    <edge source="people" target="support">
+      <data key="d3">0.784205328658562</data>
+    </edge>
+    <edge source="people" target="us">
+      <data key="d3">1.0724897060651073</data>
+    </edge>
+    <edge source="people" target="last">
+      <data key="d3">0.28740675336300336</data>
+    </edge>
+    <edge source="people" target="won">
+      <data key="d3">0.15817682499958188</data>
+    </edge>
+    <edge source="people" target="election">
+      <data key="d3">0.31509142461821743</data>
+    </edge>
+    <edge source="people" target="meeting">
+      <data key="d3">0.5790897344998646</data>
+    </edge>
+    <edge source="people" target="considering">
+      <data key="d3">0.405627689980205</data>
+    </edge>
+    <edge source="people" target="finger">
+      <data key="d3">0.675928897294954</data>
+    </edge>
+    <edge source="say" target="know">
+      <data key="d3">0.5497833964775722</data>
+    </edge>
+    <edge source="say" target="going">
+      <data key="d3">0.16850056570927452</data>
+    </edge>
+    <edge source="say" target="giving">
+      <data key="d3">0.7647319390594127</data>
+    </edge>
+    <edge source="say" target="support">
+      <data key="d3">1.4402420884509972</data>
+    </edge>
+    <edge source="say" target="us">
+      <data key="d3">1.0986177093261487</data>
+    </edge>
+    <edge source="say" target="last">
+      <data key="d3">0.3028396869590516</data>
+    </edge>
+    <edge source="say" target="won">
+      <data key="d3">0.12340281253160944</data>
+    </edge>
+    <edge source="say" target="election">
+      <data key="d3">0.5558722531524196</data>
+    </edge>
+    <edge source="say" target="meeting">
+      <data key="d3">0.7389113368742146</data>
+    </edge>
+    <edge source="say" target="considering">
+      <data key="d3">0.4481718750054061</data>
+    </edge>
+    <edge source="say" target="finger">
+      <data key="d3">0.512441990353425</data>
+    </edge>
+    <edge source="say" target="dont">
+      <data key="d3">0.7534211492453943</data>
+    </edge>
+    <edge source="say" target="person">
+      <data key="d3">0.8589344901678712</data>
+    </edge>
+    <edge source="say" target="could">
+      <data key="d3">1.3299741484104755</data>
+    </edge>
+    <edge source="say" target="golf">
+      <data key="d3">0.9829290525646113</data>
+    </edge>
+    <edge source="say" target="beat">
+      <data key="d3">0.8913135058938992</data>
+    </edge>
+    <edge source="say" target="tweet">
+      <data key="d3">0.44902295705820994</data>
+    </edge>
+    <edge source="say" target="back">
+      <data key="d3">0.6366845492224259</data>
+    </edge>
+    <edge source="say" target="rape">
+      <data key="d3">0.5474727121123595</data>
+    </edge>
+    <edge source="say" target="taxpayer">
+      <data key="d3">0.8326081031671535</data>
+    </edge>
+    <edge source="say" target="left">
+      <data key="d3">0.8449344789927602</data>
+    </edge>
+    <edge source="say" target="golfing">
+      <data key="d3">0.7408022876623472</data>
+    </edge>
+    <edge source="know" target="going">
+      <data key="d3">0.8803709620441063</data>
+    </edge>
+    <edge source="know" target="giving">
+      <data key="d3">0.8096051621666334</data>
+    </edge>
+    <edge source="know" target="support">
+      <data key="d3">0.8524831000748974</data>
+    </edge>
+    <edge source="know" target="us">
+      <data key="d3">0.4046981069476417</data>
+    </edge>
+    <edge source="know" target="last">
+      <data key="d3">0.7211483922146027</data>
+    </edge>
+    <edge source="know" target="won">
+      <data key="d3">0.5686355512876801</data>
+    </edge>
+    <edge source="know" target="election">
+      <data key="d3">0.621603534530265</data>
+    </edge>
+    <edge source="know" target="meeting">
+      <data key="d3">0.6319567569386254</data>
+    </edge>
+    <edge source="know" target="considering">
+      <data key="d3">0.9442956971356096</data>
+    </edge>
+    <edge source="know" target="finger">
+      <data key="d3">0.7931414594822263</data>
+    </edge>
+    <edge source="know" target="dont">
+      <data key="d3">0.1967063050119553</data>
+    </edge>
+    <edge source="know" target="person">
+      <data key="d3">0.5231356906411032</data>
+    </edge>
+    <edge source="know" target="could">
+      <data key="d3">0.540875356096355</data>
+    </edge>
+    <edge source="know" target="golf">
+      <data key="d3">0.6251113867632716</data>
+    </edge>
+    <edge source="know" target="beat">
+      <data key="d3">0.5119865977363742</data>
+    </edge>
+    <edge source="know" target="tweet">
+      <data key="d3">0.8932154857022139</data>
+    </edge>
+    <edge source="know" target="back">
+      <data key="d3">0.5291815864569626</data>
+    </edge>
+    <edge source="know" target="rape">
+      <data key="d3">0.7235462469412139</data>
+    </edge>
+    <edge source="know" target="taxpayer">
+      <data key="d3">0.5509803704876701</data>
+    </edge>
+    <edge source="know" target="left">
+      <data key="d3">0.5629318166651279</data>
+    </edge>
+    <edge source="know" target="golfing">
+      <data key="d3">0.47248566572685546</data>
+    </edge>
+    <edge source="going" target="giving">
+      <data key="d3">0.7077526225602108</data>
+    </edge>
+    <edge source="going" target="support">
+      <data key="d3">1.3717089754451557</data>
+    </edge>
+    <edge source="going" target="us">
+      <data key="d3">1.2121952035810517</data>
+    </edge>
+    <edge source="going" target="last">
+      <data key="d3">0.43824752964741187</data>
+    </edge>
+    <edge source="going" target="won">
+      <data key="d3">0.3158963602814049</data>
+    </edge>
+    <edge source="going" target="election">
+      <data key="d3">0.4748759146748441</data>
+    </edge>
+    <edge source="going" target="meeting">
+      <data key="d3">0.6749298237643221</data>
+    </edge>
+    <edge source="going" target="considering">
+      <data key="d3">0.3356396387049012</data>
+    </edge>
+    <edge source="going" target="finger">
+      <data key="d3">0.4276964832910205</data>
+    </edge>
+    <edge source="giving" target="support">
+      <data key="d3">1.3741065205441712</data>
+    </edge>
+    <edge source="giving" target="us">
+      <data key="d3">0.6434511116819726</data>
+    </edge>
+    <edge source="giving" target="last">
+      <data key="d3">0.549721754909092</data>
+    </edge>
+    <edge source="giving" target="won">
+      <data key="d3">0.5201027081329443</data>
+    </edge>
+    <edge source="giving" target="election">
+      <data key="d3">0.5126180863480313</data>
+    </edge>
+    <edge source="giving" target="meeting">
+      <data key="d3">0.4812547635016008</data>
+    </edge>
+    <edge source="giving" target="considering">
+      <data key="d3">0.4460990647473395</data>
+    </edge>
+    <edge source="giving" target="finger">
+      <data key="d3">0.24307171790678356</data>
+    </edge>
+    <edge source="support" target="us">
+      <data key="d3">1.5610112939851133</data>
+    </edge>
+    <edge source="support" target="last">
+      <data key="d3">0.6842349179162557</data>
+    </edge>
+    <edge source="support" target="won">
+      <data key="d3">0.7959263957070905</data>
+    </edge>
+    <edge source="support" target="election">
+      <data key="d3">0.24885097003475237</data>
+    </edge>
+    <edge source="support" target="meeting">
+      <data key="d3">1.070890463977935</data>
+    </edge>
+    <edge source="support" target="considering">
+      <data key="d3">0.6374554161576326</data>
+    </edge>
+    <edge source="support" target="finger">
+      <data key="d3">0.8607925945894765</data>
+    </edge>
+    <edge source="us" target="last">
+      <data key="d3">0.8184032377734161</data>
+    </edge>
+    <edge source="us" target="won">
+      <data key="d3">0.6873184714041463</data>
+    </edge>
+    <edge source="us" target="election">
+      <data key="d3">0.8633687771601489</data>
+    </edge>
+    <edge source="us" target="meeting">
+      <data key="d3">0.453800570110428</data>
+    </edge>
+    <edge source="us" target="considering">
+      <data key="d3">0.8535093716626706</data>
+    </edge>
+    <edge source="us" target="finger">
+      <data key="d3">0.6285190373118711</data>
+    </edge>
+    <edge source="last" target="won">
+      <data key="d3">0.1656593586483533</data>
+    </edge>
+    <edge source="last" target="election">
+      <data key="d3">0.2787012896618344</data>
+    </edge>
+    <edge source="last" target="meeting">
+      <data key="d3">0.5671199280491895</data>
+    </edge>
+    <edge source="last" target="considering">
+      <data key="d3">0.1094781028802664</data>
+    </edge>
+    <edge source="last" target="finger">
+      <data key="d3">0.32724079677565265</data>
+    </edge>
+    <edge source="won" target="election">
+      <data key="d3">0.2916726443258002</data>
+    </edge>
+    <edge source="won" target="meeting">
+      <data key="d3">0.47526297554304486</data>
+    </edge>
+    <edge source="won" target="considering">
+      <data key="d3">0.20898154302225097</data>
+    </edge>
+    <edge source="won" target="finger">
+      <data key="d3">0.3252970201887788</data>
+    </edge>
+    <edge source="election" target="meeting">
+      <data key="d3">0.46429722192396256</data>
+    </edge>
+    <edge source="election" target="considering">
+      <data key="d3">0.1373000041027123</data>
+    </edge>
+    <edge source="election" target="finger">
+      <data key="d3">0.26024511360195857</data>
+    </edge>
+    <edge source="meeting" target="considering">
+      <data key="d3">0.4547937038293008</data>
+    </edge>
+    <edge source="meeting" target="finger">
+      <data key="d3">0.1901018545932489</data>
+    </edge>
+    <edge source="considering" target="finger">
+      <data key="d3">0.14548964065739642</data>
+    </edge>
+    <edge source="person" target="would">
+      <data key="d3">0.4223471130299468</data>
+    </edge>
+    <edge source="person" target="took">
+      <data key="d3">0.7781671353917419</data>
+    </edge>
+    <edge source="person" target="guy">
+      <data key="d3">0.4715767274128406</data>
+    </edge>
+    <edge source="person" target="still">
+      <data key="d3">0.5295714629963413</data>
+    </edge>
+    <edge source="person" target="tweets">
+      <data key="d3">0.5599823944958265</data>
+    </edge>
+    <edge source="person" target="fuck">
+      <data key="d3">0.7790709751332561</data>
+    </edge>
+    <edge source="person" target="married">
+      <data key="d3">0.7788527624765029</data>
+    </edge>
+    <edge source="person" target="try">
+      <data key="d3">0.7786838278847651</data>
+    </edge>
+    <edge source="person" target="says">
+      <data key="d3">0.48591074972264786</data>
+    </edge>
+    <edge source="person" target="named">
+      <data key="d3">0.8741460493661237</data>
+    </edge>
+    <edge source="person" target="sexual">
+      <data key="d3">0.7994058030692028</data>
+    </edge>
+    <edge source="person" target="dont">
+      <data key="d3">0.41628332823086844</data>
+    </edge>
+    <edge source="person" target="could">
+      <data key="d3">0.562486010364109</data>
+    </edge>
+    <edge source="person" target="golf">
+      <data key="d3">0.8327665677076068</data>
+    </edge>
+    <edge source="person" target="beat">
+      <data key="d3">0.764392343070207</data>
+    </edge>
+    <edge source="person" target="tweet">
+      <data key="d3">0.7835786379408107</data>
+    </edge>
+    <edge source="person" target="back">
+      <data key="d3">0.5676470216427867</data>
+    </edge>
+    <edge source="person" target="rape">
+      <data key="d3">0.6191417438683546</data>
+    </edge>
+    <edge source="person" target="taxpayer">
+      <data key="d3">0.8085401649075742</data>
+    </edge>
+    <edge source="person" target="left">
+      <data key="d3">0.8220183346923208</data>
+    </edge>
+    <edge source="person" target="golfing">
+      <data key="d3">0.7459728468726365</data>
+    </edge>
+    <edge source="would" target="took">
+      <data key="d3">0.4742112570548952</data>
+    </edge>
+    <edge source="would" target="guy">
+      <data key="d3">0.5123971472275494</data>
+    </edge>
+    <edge source="would" target="still">
+      <data key="d3">0.12587210091864606</data>
+    </edge>
+    <edge source="would" target="tweets">
+      <data key="d3">0.411890500180031</data>
+    </edge>
+    <edge source="would" target="fuck">
+      <data key="d3">0.5106685687542785</data>
+    </edge>
+    <edge source="would" target="married">
+      <data key="d3">0.5105419603627748</data>
+    </edge>
+    <edge source="would" target="try">
+      <data key="d3">0.5104418441836145</data>
+    </edge>
+    <edge source="would" target="says">
+      <data key="d3">1.116339623559127</data>
+    </edge>
+    <edge source="would" target="named">
+      <data key="d3">0.34314160853694925</data>
+    </edge>
+    <edge source="would" target="sexual">
+      <data key="d3">1.3221451601002372</data>
+    </edge>
+    <edge source="took" target="guy">
+      <data key="d3">0.48782283253510694</data>
+    </edge>
+    <edge source="took" target="still">
+      <data key="d3">0.3188248426584509</data>
+    </edge>
+    <edge source="took" target="tweets">
+      <data key="d3">0.3244279324268435</data>
+    </edge>
+    <edge source="took" target="fuck">
+      <data key="d3">0.025728618745444888</data>
+    </edge>
+    <edge source="took" target="married">
+      <data key="d3">0.02602951605066108</data>
+    </edge>
+    <edge source="took" target="try">
+      <data key="d3">0.026249447192814593</data>
+    </edge>
+    <edge source="took" target="says">
+      <data key="d3">1.3562471216769398</data>
+    </edge>
+    <edge source="took" target="named">
+      <data key="d3">0.49600097652259795</data>
+    </edge>
+    <edge source="took" target="sexual">
+      <data key="d3">1.0813799827421111</data>
+    </edge>
+    <edge source="guy" target="still">
+      <data key="d3">0.5407916978933767</data>
+    </edge>
+    <edge source="guy" target="tweets">
+      <data key="d3">0.4743797212154662</data>
+    </edge>
+    <edge source="guy" target="fuck">
+      <data key="d3">0.3268968766720816</data>
+    </edge>
+    <edge source="guy" target="married">
+      <data key="d3">0.3269330040655902</data>
+    </edge>
+    <edge source="guy" target="try">
+      <data key="d3">0.32695466968640435</data>
+    </edge>
+    <edge source="guy" target="says">
+      <data key="d3">0.4250100417342773</data>
+    </edge>
+    <edge source="guy" target="named">
+      <data key="d3">0.7086898513953933</data>
+    </edge>
+    <edge source="guy" target="sexual">
+      <data key="d3">1.2357911175663583</data>
+    </edge>
+    <edge source="still" target="tweets">
+      <data key="d3">0.2792254167726264</data>
+    </edge>
+    <edge source="still" target="fuck">
+      <data key="d3">0.2725469573495636</data>
+    </edge>
+    <edge source="still" target="married">
+      <data key="d3">0.27259726720430916</data>
+    </edge>
+    <edge source="still" target="try">
+      <data key="d3">0.27262976625984475</data>
+    </edge>
+    <edge source="still" target="says">
+      <data key="d3">1.1828109557255981</data>
+    </edge>
+    <edge source="still" target="named">
+      <data key="d3">0.20944864372826982</data>
+    </edge>
+    <edge source="still" target="sexual">
+      <data key="d3">1.1809486142453547</data>
+    </edge>
+    <edge source="tweets" target="fuck">
+      <data key="d3">0.15993633290861758</data>
+    </edge>
+    <edge source="tweets" target="married">
+      <data key="d3">0.15935947832508943</data>
+    </edge>
+    <edge source="tweets" target="try">
+      <data key="d3">0.15893742639075406</data>
+    </edge>
+    <edge source="tweets" target="says">
+      <data key="d3">1.2084142536399503</data>
+    </edge>
+    <edge source="tweets" target="named">
+      <data key="d3">0.4404583485844384</data>
+    </edge>
+    <edge source="tweets" target="sexual">
+      <data key="d3">1.102897741612382</data>
+    </edge>
+    <edge source="fuck" target="married">
+      <data key="d3">1.3709290736908119e-06</data>
+    </edge>
+    <edge source="fuck" target="try">
+      <data key="d3">4.093553035765921e-06</data>
+    </edge>
+    <edge source="fuck" target="says">
+      <data key="d3">1.3979601620807738</data>
+    </edge>
+    <edge source="fuck" target="named">
+      <data key="d3">0.5614927622968098</data>
+    </edge>
+    <edge source="fuck" target="sexual">
+      <data key="d3">1.0783239835857497</data>
+    </edge>
+    <edge source="married" target="try">
+      <data key="d3">7.252607116080756e-07</data>
+    </edge>
+    <edge source="married" target="says">
+      <data key="d3">1.3976719341359545</data>
+    </edge>
+    <edge source="married" target="named">
+      <data key="d3">0.5606482759392944</data>
+    </edge>
+    <edge source="married" target="sexual">
+      <data key="d3">1.078262140566442</data>
+    </edge>
+    <edge source="try" target="says">
+      <data key="d3">1.3974416819161408</data>
+    </edge>
+    <edge source="try" target="named">
+      <data key="d3">0.5600268594226695</data>
+    </edge>
+    <edge source="try" target="sexual">
+      <data key="d3">1.0782037766641543</data>
+    </edge>
+    <edge source="says" target="named">
+      <data key="d3">0.7969649514480618</data>
+    </edge>
+    <edge source="says" target="sexual">
+      <data key="d3">1.7258962864066953</data>
+    </edge>
+    <edge source="named" target="sexual">
+      <data key="d3">1.243803020716253</data>
+    </edge>
+    <edge source="dont" target="could">
+      <data key="d3">0.159026607813878</data>
+    </edge>
+    <edge source="dont" target="golf">
+      <data key="d3">0.37326840825167584</data>
+    </edge>
+    <edge source="dont" target="beat">
+      <data key="d3">0.23253530201117295</data>
+    </edge>
+    <edge source="dont" target="tweet">
+      <data key="d3">0.8259108219944478</data>
+    </edge>
+    <edge source="dont" target="back">
+      <data key="d3">0.6315775244936259</data>
+    </edge>
+    <edge source="dont" target="rape">
+      <data key="d3">0.5153427596519358</data>
+    </edge>
+    <edge source="dont" target="taxpayer">
+      <data key="d3">0.25122316471365874</data>
+    </edge>
+    <edge source="dont" target="left">
+      <data key="d3">0.25716065341057676</data>
+    </edge>
+    <edge source="dont" target="golfing">
+      <data key="d3">0.21357207237672376</data>
+    </edge>
+    <edge source="could" target="golf">
+      <data key="d3">0.45123699809932727</data>
+    </edge>
+    <edge source="could" target="beat">
+      <data key="d3">0.20395511635771957</data>
+    </edge>
+    <edge source="could" target="tweet">
+      <data key="d3">1.1435737773541537</data>
+    </edge>
+    <edge source="could" target="back">
+      <data key="d3">0.9523997954989019</data>
+    </edge>
+    <edge source="could" target="rape">
+      <data key="d3">0.5429061869013228</data>
+    </edge>
+    <edge source="could" target="taxpayer">
+      <data key="d3">0.19604429012767252</data>
+    </edge>
+    <edge source="could" target="left">
+      <data key="d3">0.1971316697159161</data>
+    </edge>
+    <edge source="could" target="golfing">
+      <data key="d3">0.20409838604275288</data>
+    </edge>
+    <edge source="golf" target="beat">
+      <data key="d3">0.13668644372370375</data>
+    </edge>
+    <edge source="golf" target="tweet">
+      <data key="d3">0.6639913101086512</data>
+    </edge>
+    <edge source="golf" target="back">
+      <data key="d3">0.6636062001467026</data>
+    </edge>
+    <edge source="golf" target="rape">
+      <data key="d3">0.3951386200549567</data>
+    </edge>
+    <edge source="golf" target="taxpayer">
+      <data key="d3">0.1417831072423454</data>
+    </edge>
+    <edge source="golf" target="left">
+      <data key="d3">0.14542323806910454</data>
+    </edge>
+    <edge source="golf" target="golfing">
+      <data key="d3">0.1280530810253164</data>
+    </edge>
+    <edge source="beat" target="tweet">
+      <data key="d3">0.7943968803232921</data>
+    </edge>
+    <edge source="beat" target="back">
+      <data key="d3">0.6528291424384071</data>
+    </edge>
+    <edge source="beat" target="rape">
+      <data key="d3">0.2957523536413062</data>
+    </edge>
+    <edge source="beat" target="taxpayer">
+      <data key="d3">0.003058682030683402</data>
+    </edge>
+    <edge source="beat" target="left">
+      <data key="d3">0.003870147890441482</data>
+    </edge>
+    <edge source="beat" target="golfing">
+      <data key="d3">0.0018659062377571955</data>
+    </edge>
+    <edge source="tweet" target="back">
+      <data key="d3">1.020692936104197</data>
+    </edge>
+    <edge source="tweet" target="rape">
+      <data key="d3">0.2274509587769063</data>
+    </edge>
+    <edge source="tweet" target="taxpayer">
+      <data key="d3">0.5903497774860521</data>
+    </edge>
+    <edge source="tweet" target="left">
+      <data key="d3">0.5993432450244305</data>
+    </edge>
+    <edge source="tweet" target="golfing">
+      <data key="d3">0.5279397770423415</data>
+    </edge>
+    <edge source="back" target="rape">
+      <data key="d3">0.640566826626994</data>
+    </edge>
+    <edge source="back" target="taxpayer">
+      <data key="d3">0.4246092559909666</data>
+    </edge>
+    <edge source="back" target="left">
+      <data key="d3">0.43098386468139094</data>
+    </edge>
+    <edge source="back" target="golfing">
+      <data key="d3">0.39522904322232977</data>
+    </edge>
+    <edge source="rape" target="taxpayer">
+      <data key="d3">0.1718232325549137</data>
+    </edge>
+    <edge source="rape" target="left">
+      <data key="d3">0.17487577154793085</data>
+    </edge>
+    <edge source="rape" target="golfing">
+      <data key="d3">0.16096002218491376</data>
+    </edge>
+    <edge source="taxpayer" target="left">
+      <data key="d3">0.00010936413862187334</data>
+    </edge>
+    <edge source="taxpayer" target="golfing">
+      <data key="d3">0.00553231283422922</data>
+    </edge>
+    <edge source="left" target="golfing">
+      <data key="d3">0.006958524010726316</data>
+    </edge>
+  </graph>
+</graphml>

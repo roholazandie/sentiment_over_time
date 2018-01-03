@@ -8,5 +8,5 @@ from sentiment_analysis.twitter_sentiments import TwitterSentiments
 
 
 twitter_sentiments = TwitterSentiments()
-file = "word_models/tweeter_donald trump.csv"
+file = "../word_models/tweeter_donald trump.csv"
 twitter_sentiments.topic_modeling_based_on_sentiment(file_name=file ,algorithm='lsi')

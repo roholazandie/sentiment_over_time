@@ -5,9 +5,9 @@ from itertools import zip_longest
 
 import numpy as np
 import pandas as pd
-from latent_dirichlet_allocation import LatentDirichletAllocation
+from topic_modeling.latent_dirichlet_allocation import LatentDirichletAllocation
 
-from extract_sentiments import ExtractSentiment
+from sentiment_analysis.extract_sentiment import ExtractSentiment
 from preprocessing.twitter_reader import TwitterReader
 from topic_modeling.latent_semantic_indexing import LatentSemanticIndexing
 
@@ -16,18 +16,18 @@ class TwitterSentiments(object):
 
     def __init__(self):
         self.batch_size = 24
-        max_seq_length = 250
-        n_iterations = 50000
+        max_seq_length = 50#250
+        n_iterations = 30000
         n_dimension = 300
-        n_lstm_units = 64
+        n_lstm_units = 50#64
 
         self.twitter_reader = TwitterReader()
         self.extract_sentiment = ExtractSentiment(batch_size=self.batch_size,
-                     n_classes=2,
-                     max_seq_length=max_seq_length,
-                     n_dimension=300,
-                     n_lstm_units=n_lstm_units,
-                     n_iterations=n_iterations)
+                                                  n_classes=2,
+                                                  max_seq_length=max_seq_length,
+                                                  n_dimensions=300,
+                                                  n_lstm_units=n_lstm_units,
+                                                  n_iterations=n_iterations)
 
         self.tweets_df = pd.DataFrame()
 
@@ -38,24 +38,24 @@ class TwitterSentiments(object):
                                                           since_date= since_date,
                                                           count=count)
         # TODO twitter parser is slow, we need to dump file and then use it, how to make online version faster?
-        tweets_df.to_csv("word_models/tweeter_"+hashtag+".csv")
+        tweets_df.to_csv("../word_models/tweeter_"+hashtag+".csv")
 
 
 
     def tag_sentences(self, file_name):
         tweets_df = pd.read_csv(file_name)
         # TODO why this produce one empty chunk at the end??
-        #tweet_chunks = self._chunks(tweets_df["text"], self.batch_size, padvalue="")
+        tweet_chunks = self._chunks(tweets_df["text"], self.batch_size, padvalue="")
 
-        # all_sentiments = []
-        # for tweet_chunk in tweet_chunks:
-        #     if len(tweet_chunk) == self.batch_size:
-        #         tweet_sentiment_chunks = self.extract_sentiment.classify_batch_sentences_sentiments(tweet_chunk)
-        #         all_sentiments += tweet_sentiment_chunks
-        #
-        #
-        # all_sentiments = all_sentiments[:len(tweets_df.index)]
-        all_sentiments = np.random.choice(["positive", "negative"], len(tweets_df.index))
+        all_sentiments = []
+        for tweet_chunk in tweet_chunks:
+            if len(tweet_chunk) == self.batch_size:
+                tweet_sentiment_chunks = self.extract_sentiment.classify_batch_sentences_sentiments(tweet_chunk)
+                all_sentiments += tweet_sentiment_chunks
+
+
+        all_sentiments = all_sentiments[:len(tweets_df.index)]
+        #all_sentiments = np.random.choice(["positive", "negative"], len(tweets_df.index))
         tweets_df["sentiment"] = all_sentiments
 
         positive_tweets_df = tweets_df[tweets_df["sentiment"]=="positive"]
@@ -99,9 +99,10 @@ class TwitterSentiments(object):
 
 
 if __name__ == "__main__":
-    t1 = time.time()
+    # t1 = time.time()
     twitter_sentiment = TwitterSentiments()
-    since_date = datetime.date(2015, 4, 3)
-    twitter_sentiment.dump_tweets(hashtag="obama", since_date=since_date, count=10000)
-    t2 = time.time()
-    print(t2-t1)
+    # since_date = datetime.date(2015, 4, 3)
+    # twitter_sentiment.dump_tweets(hashtag="obama", since_date=since_date, count=10000)
+    # t2 = time.time()
+    # print(t2-t1)
+    twitter_sentiment.tag_sentences("../word_models/tweeter_donald trump.csv")

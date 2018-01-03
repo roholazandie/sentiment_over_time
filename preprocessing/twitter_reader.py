@@ -2,7 +2,7 @@ import pandas as pd
 import tweepy
 
 from preprocessing.twitter_cleaner import TwitterCleaner
-
+import pandas as pd
 
 class TwitterReader(object):
 
@@ -68,8 +68,13 @@ class TwitterReader(object):
 
 if __name__ == "__main__":
     twitter_reader = TwitterReader()
-    tweets = twitter_reader.retrieve_hash_tag(hashtag="#iran", since_date="2017-04-03", count=100)
-    a=1
-    #twitter_reader.retrieve_trend_hashtags()
-    #a = twitter_reader._preprocess("@iteration")
-    #print(a)
+    #tweets = twitter_reader.retrieve_hash_tag(hashtag="#iran", since_date="2017-04-03", count=100)
+    sentiment_analysis_df = pd.read_csv("../dataset/tweets/Tweets.csv", error_bad_lines=False)
+    sentiment_analysis_texts = sentiment_analysis_df["SentimentText"].tolist()
+    cleaned_sentiments = [twitter_reader._preprocess(text) for text in sentiment_analysis_texts]
+    sentiment_analysis_df["SentimentText"] = cleaned_sentiments
+
+    sentiment_analysis_df = sentiment_analysis_df.loc[sentiment_analysis_df["Sentiment"]!="neutral"]
+    numbered_sentiments = [1 if sentiment=="positive" else -1 for sentiment in sentiment_analysis_df["Sentiment"].tolist()]
+    sentiment_analysis_df["Sentiment"] = numbered_sentiments
+    sentiment_analysis_df.to_csv("../dataset/tweets/cleaned_Tweets.csv")

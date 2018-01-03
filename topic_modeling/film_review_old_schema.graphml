@@ -1,0 +1,2637 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d3" />
+  <key attr.name="y" attr.type="double" for="node" id="d2" />
+  <key attr.name="x" attr.type="double" for="node" id="d1" />
+  <key attr.name="importance" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="film">
+      <data key="d0">17.0</data>
+      <data key="d1">0.49551266350397244</data>
+      <data key="d2">0.480944296829869</data>
+    </node>
+    <node id="movie">
+      <data key="d0">5.0</data>
+      <data key="d1">0.4668110430620705</data>
+      <data key="d2">0.5507237634490284</data>
+    </node>
+    <node id="like">
+      <data key="d0">4.0</data>
+      <data key="d1">0.4774856742961132</data>
+      <data key="d2">0.40586215044421287</data>
+    </node>
+    <node id="one">
+      <data key="d0">10.0</data>
+      <data key="d1">0.49970211328604125</data>
+      <data key="d2">0.4940322537176847</data>
+    </node>
+    <node id="well">
+      <data key="d0">4.0</data>
+      <data key="d1">0.4611334401672981</data>
+      <data key="d2">0.49363990798281493</data>
+    </node>
+    <node id="time">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4968488546174273</data>
+      <data key="d2">0.39646796687792496</data>
+    </node>
+    <node id="man">
+      <data key="d0">0.0</data>
+      <data key="d1">1.0</data>
+      <data key="d2">0.5788195750067492</data>
+    </node>
+    <node id="best">
+      <data key="d0">4.0</data>
+      <data key="d1">0.46776771976809667</data>
+      <data key="d2">0.5802624526710985</data>
+    </node>
+    <node id="much">
+      <data key="d0">5.0</data>
+      <data key="d1">0.5481061167639706</data>
+      <data key="d2">0.419302449889821</data>
+    </node>
+    <node id="see">
+      <data key="d0">3.0</data>
+      <data key="d1">0.5056235436629609</data>
+      <data key="d2">0.5995476947031018</data>
+    </node>
+    <node id="scene">
+      <data key="d0">3.0</data>
+      <data key="d1">0.3868322070106873</data>
+      <data key="d2">0.5643470828694257</data>
+    </node>
+    <node id="get">
+      <data key="d0">0.0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.5567709353728414</data>
+    </node>
+    <node id="even">
+      <data key="d0">3.0</data>
+      <data key="d1">0.44995119431243735</data>
+      <data key="d2">0.468033246251225</data>
+    </node>
+    <node id="make">
+      <data key="d0">0.0</data>
+      <data key="d1">0.8741876415613221</data>
+      <data key="d2">0.1456393196013575</data>
+    </node>
+    <node id="way">
+      <data key="d0">0.0</data>
+      <data key="d1">0.9761225445263236</data>
+      <data key="d2">0.3087730975309515</data>
+    </node>
+    <node id="story">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4291881145583554</data>
+      <data key="d2">0.6308925429220897</data>
+    </node>
+    <node id="characters">
+      <data key="d0">5.0</data>
+      <data key="d1">0.5164530135257873</data>
+      <data key="d2">0.3891710085633917</data>
+    </node>
+    <node id="two">
+      <data key="d0">3.0</data>
+      <data key="d1">0.5635026402651387</data>
+      <data key="d2">0.5457487604257304</data>
+    </node>
+    <node id="life">
+      <data key="d0">3.0</data>
+      <data key="d1">0.5001314302312688</data>
+      <data key="d2">0.5555716868300651</data>
+    </node>
+    <node id="good">
+      <data key="d0">2.0</data>
+      <data key="d1">0.3850459355162291</data>
+      <data key="d2">0.42371746428853596</data>
+    </node>
+    <node id="world">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4017065852313194</data>
+      <data key="d2">0.32627909856571147</data>
+    </node>
+    <node id="makes">
+      <data key="d0">0.0</data>
+      <data key="d1">0.6538556729418853</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="bowfinger">
+      <data key="d0">16.0</data>
+      <data key="d1">0.41790568324350136</data>
+      <data key="d2">0.7059759490498957</data>
+    </node>
+    <node id="ramsey">
+      <data key="d0">10.999999999999998</data>
+      <data key="d1">0.4277144929923113</data>
+      <data key="d2">0.7231464075793959</data>
+    </node>
+    <node id="martin">
+      <data key="d0">10.0</data>
+      <data key="d1">0.3941974398757405</data>
+      <data key="d2">0.7065880614156949</data>
+    </node>
+    <node id="murphy">
+      <data key="d0">6.0</data>
+      <data key="d1">0.3913209816237334</data>
+      <data key="d2">0.7428331274340003</data>
+    </node>
+    <node id="kit">
+      <data key="d0">6.0</data>
+      <data key="d1">0.3622084231662262</data>
+      <data key="d2">0.7217780276426357</data>
+    </node>
+    <node id="stars">
+      <data key="d0">4.0</data>
+      <data key="d1">0.45144554677843524</data>
+      <data key="d2">0.7685215474782752</data>
+    </node>
+    <node id="mind">
+      <data key="d0">3.0</data>
+      <data key="d1">0.3694478300890481</data>
+      <data key="d2">0.7928451230284499</data>
+    </node>
+    <node id="head">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4101282410147626</data>
+      <data key="d2">0.8179004262695059</data>
+    </node>
+    <node id="offers">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4533558678413619</data>
+      <data key="d2">0.8075029389380393</data>
+    </node>
+    <node id="steve">
+      <data key="d0">3.0</data>
+      <data key="d1">0.33883331400959454</data>
+      <data key="d2">0.7810228066054463</data>
+    </node>
+    <node id="rain">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4062289964265723</data>
+      <data key="d2">0.7882578680646491</data>
+    </node>
+    <node id="chubby">
+      <data key="d0">3.0</data>
+      <data key="d1">0.32105327294140146</data>
+      <data key="d2">0.7465194153658797</data>
+    </node>
+    <node id="alda">
+      <data key="d0">8.0</data>
+      <data key="d1">0.5976717236512089</data>
+      <data key="d2">0.5638081391721049</data>
+    </node>
+    <node id="ned">
+      <data key="d0">6.0</data>
+      <data key="d1">0.6246244559915962</data>
+      <data key="d2">0.5303491713519294</data>
+    </node>
+    <node id="argento">
+      <data key="d0">5.0</data>
+      <data key="d1">0.6376577997260572</data>
+      <data key="d2">0.5615232852327428</data>
+    </node>
+    <node id="ringwald">
+      <data key="d0">5.0</data>
+      <data key="d1">0.6158089502814901</data>
+      <data key="d2">0.6189218821795274</data>
+    </node>
+    <node id="devine">
+      <data key="d0">5.0</data>
+      <data key="d1">0.624617211875412</data>
+      <data key="d2">0.589203669173232</data>
+    </node>
+    <node id="suspiria">
+      <data key="d0">5.0</data>
+      <data key="d1">0.5860226411158925</data>
+      <data key="d2">0.6150056594509058</data>
+    </node>
+    <node id="lapaglia">
+      <data key="d0">4.0</data>
+      <data key="d1">0.6645741395680764</data>
+      <data key="d2">0.5868446023600241</data>
+    </node>
+    <node id="would">
+      <data key="d0">3.0</data>
+      <data key="d1">0.5414189059001396</data>
+      <data key="d2">0.5148911273522859</data>
+    </node>
+    <node id="mary">
+      <data key="d0">4.0</data>
+      <data key="d1">0.6659709126668968</data>
+      <data key="d2">0.5195576690188837</data>
+    </node>
+    <node id="comedy">
+      <data key="d0">4.0</data>
+      <data key="d1">0.6790028409921812</data>
+      <data key="d2">0.5515791738448329</data>
+    </node>
+    <node id="wedding">
+      <data key="d0">3.0</data>
+      <data key="d1">0.6650719227230791</data>
+      <data key="d2">0.6297479344161114</data>
+    </node>
+    <node id="roommates">
+      <data key="d0">7.000000000000001</data>
+      <data key="d1">0.5430998500802433</data>
+      <data key="d2">0.29673737148050006</data>
+    </node>
+    <node id="dinner">
+      <data key="d0">7.000000000000001</data>
+      <data key="d1">0.5779577003703276</data>
+      <data key="d2">0.3082133043747849</data>
+    </node>
+    <node id="vitti">
+      <data key="d0">6.0</data>
+      <data key="d1">0.566283960049754</data>
+      <data key="d2">0.2802302124132087</data>
+    </node>
+    <node id="guest">
+      <data key="d0">5.0</data>
+      <data key="d1">0.6143521802033299</data>
+      <data key="d2">0.30873158644816456</data>
+    </node>
+    <node id="zack">
+      <data key="d0">5.0</data>
+      <data key="d1">0.5209868507539018</data>
+      <data key="d2">0.2600664527475514</data>
+    </node>
+    <node id="analyze">
+      <data key="d0">4.0</data>
+      <data key="d1">0.6362612974772498</data>
+      <data key="d2">0.28350089418995267</data>
+    </node>
+    <node id="funny">
+      <data key="d0">4.0</data>
+      <data key="d1">0.514347773009857</data>
+      <data key="d2">0.2282157155689725</data>
+    </node>
+    <node id="right">
+      <data key="d0">4.0</data>
+      <data key="d1">0.6213981257421011</data>
+      <data key="d2">0.2614119789080356</data>
+    </node>
+    <node id="gangster">
+      <data key="d0">4.0</data>
+      <data key="d1">0.5933477581893172</data>
+      <data key="d2">0.23990223005261244</data>
+    </node>
+    <node id="enough">
+      <data key="d0">4.0</data>
+      <data key="d1">0.5521320797336806</data>
+      <data key="d2">0.23637893612856348</data>
+    </node>
+    <node id="pete">
+      <data key="d0">3.0</data>
+      <data key="d1">0.5697663592189913</data>
+      <data key="d2">0.20760473407465999</data>
+    </node>
+    <node id="character">
+      <data key="d0">4.0</data>
+      <data key="d1">0.4672514921021542</data>
+      <data key="d2">0.3836751574642283</data>
+    </node>
+    <node id="truman">
+      <data key="d0">4.0</data>
+      <data key="d1">0.4191321788474508</data>
+      <data key="d2">0.37265846356768184</data>
+    </node>
+    <node id="really">
+      <data key="d0">4.0</data>
+      <data key="d1">0.45109416008179604</data>
+      <data key="d2">0.414985398689989</data>
+    </node>
+    <node id="action">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4367781675088795</data>
+      <data key="d2">0.3219997475928306</data>
+    </node>
+    <node id="show">
+      <data key="d0">3.0</data>
+      <data key="d1">0.34024180535164666</data>
+      <data key="d2">0.38038209762922665</data>
+    </node>
+    <node id="re">
+      <data key="d0">3.0</data>
+      <data key="d1">0.3705048456506456</data>
+      <data key="d2">0.3729615863307434</data>
+    </node>
+    <node id="films">
+      <data key="d0">3.0</data>
+      <data key="d1">0.3724037966729657</data>
+      <data key="d2">0.3438053309282673</data>
+    </node>
+    <node id="movies">
+      <data key="d0">4.0</data>
+      <data key="d1">0.38144353119002344</data>
+      <data key="d2">0.45686933771638966</data>
+    </node>
+    <node id="people">
+      <data key="d0">4.0</data>
+      <data key="d1">0.4148922719345079</data>
+      <data key="d2">0.5034069409242033</data>
+    </node>
+    <node id="new">
+      <data key="d0">3.0</data>
+      <data key="d1">0.3382618878335919</data>
+      <data key="d2">0.43874115599264607</data>
+    </node>
+    <node id="black">
+      <data key="d0">3.0</data>
+      <data key="d1">0.32761352103721514</data>
+      <data key="d2">0.5045371889391921</data>
+    </node>
+    <node id="plot">
+      <data key="d0">3.0</data>
+      <data key="d1">0.3285599577403426</data>
+      <data key="d2">0.46635574843566774</data>
+    </node>
+    <node id="also">
+      <data key="d0">3.0</data>
+      <data key="d1">0.4016602351533297</data>
+      <data key="d2">0.5287941309334226</data>
+    </node>
+    <node id="jackie">
+      <data key="d0">5.0</data>
+      <data key="d1">0.5476788043558078</data>
+      <data key="d2">0.45237669839272493</data>
+    </node>
+    <node id="tarantino">
+      <data key="d0">4.0</data>
+      <data key="d1">0.5827471717225977</data>
+      <data key="d2">0.4564666305384569</data>
+    </node>
+    <node id="brown">
+      <data key="d0">4.0</data>
+      <data key="d1">0.5838721193018055</data>
+      <data key="d2">0.42321760940757913</data>
+    </node>
+    <node id="first">
+      <data key="d0">4.0</data>
+      <data key="d1">0.4294628522638567</data>
+      <data key="d2">0.561940972091186</data>
+    </node>
+    <node id="little">
+      <data key="d0">3.0</data>
+      <data key="d1">0.361708150031718</data>
+      <data key="d2">0.5339740358170083</data>
+    </node>
+    <node id="war">
+      <data key="d0">3.0</data>
+      <data key="d1">0.3710323525958334</data>
+      <data key="d2">0.49523946584698464</data>
+    </node>
+    <edge source="film" target="movie">
+      <data key="d3">8.5</data>
+    </edge>
+    <edge source="film" target="like">
+      <data key="d3">6.800000000000001</data>
+    </edge>
+    <edge source="film" target="one">
+      <data key="d3">17.0</data>
+    </edge>
+    <edge source="film" target="well">
+      <data key="d3">7.2</data>
+    </edge>
+    <edge source="film" target="time">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="man">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="film" target="best">
+      <data key="d3">7.2</data>
+    </edge>
+    <edge source="film" target="much">
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="film" target="see">
+      <data key="d3">5.3999999999999995</data>
+    </edge>
+    <edge source="film" target="scene">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="film" target="even">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="film" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="film" target="story">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="characters">
+      <data key="d3">8.5</data>
+    </edge>
+    <edge source="film" target="two">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="life">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="good">
+      <data key="d3">3.4000000000000004</data>
+    </edge>
+    <edge source="film" target="world">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="film" target="bowfinger">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="film" target="ramsey">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="film" target="martin">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="film" target="murphy">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="film" target="kit">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="film" target="stars">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="film" target="mind">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="film" target="head">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="film" target="offers">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="film" target="steve">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="film" target="rain">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="film" target="chubby">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="film" target="alda">
+      <data key="d3">8.0</data>
+    </edge>
+    <edge source="film" target="ned">
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="film" target="argento">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="film" target="ringwald">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="film" target="devine">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="film" target="suspiria">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="film" target="lapaglia">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="film" target="would">
+      <data key="d3">5.3999999999999995</data>
+    </edge>
+    <edge source="film" target="mary">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="film" target="comedy">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="film" target="wedding">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="film" target="roommates">
+      <data key="d3">4.2</data>
+    </edge>
+    <edge source="film" target="dinner">
+      <data key="d3">4.2</data>
+    </edge>
+    <edge source="film" target="vitti">
+      <data key="d3">3.6</data>
+    </edge>
+    <edge source="film" target="guest">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="film" target="zack">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="film" target="analyze">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="film" target="funny">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="film" target="right">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="film" target="gangster">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="film" target="enough">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="film" target="pete">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="film" target="character">
+      <data key="d3">8.799999999999999</data>
+    </edge>
+    <edge source="film" target="truman">
+      <data key="d3">6.800000000000001</data>
+    </edge>
+    <edge source="film" target="really">
+      <data key="d3">8.799999999999999</data>
+    </edge>
+    <edge source="film" target="action">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="show">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="re">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="films">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="movies">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="film" target="people">
+      <data key="d3">7.2</data>
+    </edge>
+    <edge source="film" target="new">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="film" target="black">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="film" target="plot">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="film" target="also">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="jackie">
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="film" target="tarantino">
+      <data key="d3">8.799999999999999</data>
+    </edge>
+    <edge source="film" target="brown">
+      <data key="d3">8.799999999999999</data>
+    </edge>
+    <edge source="film" target="first">
+      <data key="d3">7.2</data>
+    </edge>
+    <edge source="film" target="little">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="film" target="war">
+      <data key="d3">5.1000000000000005</data>
+    </edge>
+    <edge source="movie" target="like">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="one">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="movie" target="well">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="movie" target="time">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="man">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="movie" target="best">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="movie" target="much">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="movie" target="see">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="movie" target="scene">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="movie" target="even">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="movie" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="movie" target="story">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="characters">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="movie" target="two">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="life">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="good">
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="movie" target="world">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movie" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="movie" target="bowfinger">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="movie" target="ramsey">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="movie" target="martin">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="movie" target="murphy">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="movie" target="kit">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="movie" target="stars">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movie" target="mind">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="movie" target="head">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="movie" target="offers">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="movie" target="steve">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="movie" target="rain">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="movie" target="chubby">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="movie" target="alda">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="movie" target="ned">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="movie" target="argento">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="ringwald">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="devine">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="suspiria">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="lapaglia">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="movie" target="would">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="movie" target="mary">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="movie" target="comedy">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="movie" target="wedding">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movie" target="character">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="truman">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="movie" target="really">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="action">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movie" target="show">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movie" target="re">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movie" target="films">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movie" target="movies">
+      <data key="d3">4.3999999999999995</data>
+    </edge>
+    <edge source="movie" target="people">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="movie" target="new">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="movie" target="black">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="movie" target="plot">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="movie" target="also">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="jackie">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="movie" target="tarantino">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="brown">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="movie" target="first">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="movie" target="little">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="movie" target="war">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="like" target="one">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="like" target="well">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="like" target="time">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="man">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="like" target="best">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="like" target="much">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="like" target="see">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="like" target="scene">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="like" target="even">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="like" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="like" target="story">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="characters">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="like" target="two">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="life">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="good">
+      <data key="d3">0.8</data>
+    </edge>
+    <edge source="like" target="world">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="like" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="like" target="roommates">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="like" target="dinner">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="like" target="vitti">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="like" target="guest">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="like" target="zack">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="like" target="analyze">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="like" target="funny">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="like" target="right">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="like" target="gangster">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="like" target="enough">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="like" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="character">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="truman">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="like" target="really">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="action">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="like" target="show">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="like" target="re">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="like" target="films">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="like" target="movies">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="like" target="would">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="like" target="people">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="like" target="new">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="like" target="black">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="like" target="plot">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="like" target="also">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="jackie">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="like" target="tarantino">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="brown">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="first">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="like" target="little">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="like" target="war">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="one" target="well">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="one" target="time">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="man">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="one" target="best">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="one" target="much">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="one" target="see">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="scene">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="one" target="even">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="one" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="one" target="story">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="characters">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="one" target="two">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="life">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="good">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="one" target="world">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="one" target="alda">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="one" target="ned">
+      <data key="d3">3.6</data>
+    </edge>
+    <edge source="one" target="argento">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="ringwald">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="devine">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="suspiria">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="lapaglia">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="would">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="mary">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="comedy">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="wedding">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="one" target="character">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="one" target="truman">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="one" target="really">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="one" target="action">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="show">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="re">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="films">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="one" target="movies">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="one" target="people">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="one" target="new">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="one" target="black">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="one" target="plot">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="one" target="also">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="jackie">
+      <data key="d3">5.000000000000001</data>
+    </edge>
+    <edge source="one" target="tarantino">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="one" target="brown">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="one" target="first">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="one" target="little">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="one" target="war">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="well" target="time">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="man">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="well" target="best">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="much">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="well" target="see">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="well" target="scene">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="well" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="well" target="even">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="well" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="well" target="good">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="well" target="movies">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="well" target="would">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="well" target="people">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="new">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="well" target="black">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="well" target="plot">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="well" target="also">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="well" target="jackie">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="well" target="tarantino">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="brown">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="character">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="really">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="characters">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="well" target="first">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="story">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="well" target="life">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="time" target="man">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="time" target="best">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="much">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="time" target="see">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="time" target="scene">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="time" target="even">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="time" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="time" target="story">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="characters">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="time" target="two">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="life">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="good">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="time" target="world">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="time" target="roommates">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="time" target="dinner">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="time" target="vitti">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="time" target="guest">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="time" target="zack">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="time" target="analyze">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="funny">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="right">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="gangster">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="enough">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="time" target="character">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="time" target="truman">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="time" target="really">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="time" target="action">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="show">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="re">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="films">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="movies">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="time" target="would">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="time" target="people">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="new">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="time" target="black">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="time" target="plot">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="time" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="jackie">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="time" target="tarantino">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="time" target="brown">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="time" target="first">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="time" target="little">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="time" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="man" target="best">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="man" target="much">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="man" target="see">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="man" target="scene">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="man" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="man" target="even">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="man" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="man" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="best" target="much">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="best" target="see">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="best" target="scene">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="best" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="best" target="even">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="best" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="best" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="best" target="people">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="best" target="first">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="best" target="story">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="best" target="also">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="best" target="life">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="best" target="would">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="much" target="see">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="scene">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="even">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="much" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="story">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="characters">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="much" target="two">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="life">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="good">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="world">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="much" target="jackie">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="much" target="tarantino">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="much" target="brown">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="much" target="character">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="much" target="would">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="much" target="really">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="see" target="scene">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="see" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="see" target="even">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="see" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="see" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="see" target="people">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="see" target="first">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="see" target="story">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="see" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="see" target="life">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="see" target="would">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="get">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="scene" target="even">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="scene" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="scene" target="characters">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="scene" target="little">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="two">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="story">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="life">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="scene" target="good">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="get" target="even">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="get" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="get" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="even" target="make">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="even" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="even" target="story">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="characters">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="even" target="two">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="life">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="good">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="even" target="world">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="even" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="even" target="movies">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="even" target="would">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="even" target="people">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="even" target="new">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="black">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="plot">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="jackie">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="even" target="tarantino">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="even" target="brown">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="even" target="character">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="even" target="really">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="even" target="first">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="even" target="little">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="even" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="make" target="way">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="way" target="story">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="way" target="characters">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="way" target="two">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="way" target="life">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="way" target="good">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="way" target="world">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="way" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="story" target="characters">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="story" target="two">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="story" target="life">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="story" target="good">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="story" target="world">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="story" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="story" target="bowfinger">
+      <data key="d3">6.4</data>
+    </edge>
+    <edge source="story" target="ramsey">
+      <data key="d3">4.3999999999999995</data>
+    </edge>
+    <edge source="story" target="martin">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="story" target="murphy">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="story" target="kit">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="story" target="stars">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="story" target="mind">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="story" target="head">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="story" target="offers">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="story" target="steve">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="story" target="rain">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="story" target="chubby">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="story" target="people">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="story" target="first">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="story" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="story" target="would">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="story" target="little">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="story" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="characters" target="two">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="characters" target="life">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="characters" target="good">
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="characters" target="world">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="characters" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="characters" target="roommates">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="characters" target="dinner">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="characters" target="vitti">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="characters" target="guest">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="characters" target="zack">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="characters" target="analyze">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="characters" target="funny">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="characters" target="right">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="characters" target="gangster">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="characters" target="enough">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="characters" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="characters" target="character">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="characters" target="truman">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="characters" target="really">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="characters" target="action">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="characters" target="show">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="characters" target="re">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="characters" target="films">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="characters" target="jackie">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="characters" target="tarantino">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="characters" target="brown">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="characters" target="would">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="characters" target="little">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="characters" target="also">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="characters" target="war">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="two" target="life">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="two" target="good">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="two" target="world">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="two" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="two" target="alda">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="two" target="ned">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="two" target="argento">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="two" target="ringwald">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="two" target="devine">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="two" target="suspiria">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="two" target="lapaglia">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="two" target="would">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="two" target="mary">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="two" target="comedy">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="two" target="wedding">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="two" target="little">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="two" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="two" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="life" target="good">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="life" target="world">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="life" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="life" target="people">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="life" target="first">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="life" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="life" target="would">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="life" target="little">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="life" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="good" target="world">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="good" target="character">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="good" target="truman">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="good" target="really">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="action">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="show">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="re">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="films">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="movies">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="good" target="would">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="people">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="new">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="black">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="plot">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="good" target="also">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="good" target="little">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="good" target="war">
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="world" target="makes">
+      <data key="d3">0.0</data>
+    </edge>
+    <edge source="world" target="character">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="world" target="truman">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="world" target="really">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="world" target="action">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="world" target="show">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="world" target="re">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="world" target="films">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="bowfinger" target="ramsey">
+      <data key="d3">17.599999999999998</data>
+    </edge>
+    <edge source="bowfinger" target="martin">
+      <data key="d3">16.0</data>
+    </edge>
+    <edge source="bowfinger" target="murphy">
+      <data key="d3">9.6</data>
+    </edge>
+    <edge source="bowfinger" target="kit">
+      <data key="d3">9.6</data>
+    </edge>
+    <edge source="bowfinger" target="stars">
+      <data key="d3">6.4</data>
+    </edge>
+    <edge source="bowfinger" target="mind">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="bowfinger" target="head">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="bowfinger" target="offers">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="bowfinger" target="steve">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="bowfinger" target="rain">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="bowfinger" target="chubby">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="ramsey" target="martin">
+      <data key="d3">11.0</data>
+    </edge>
+    <edge source="ramsey" target="murphy">
+      <data key="d3">6.599999999999999</data>
+    </edge>
+    <edge source="ramsey" target="kit">
+      <data key="d3">6.599999999999999</data>
+    </edge>
+    <edge source="ramsey" target="stars">
+      <data key="d3">4.3999999999999995</data>
+    </edge>
+    <edge source="ramsey" target="mind">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="ramsey" target="head">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="ramsey" target="offers">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="ramsey" target="steve">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="ramsey" target="rain">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="ramsey" target="chubby">
+      <data key="d3">3.2999999999999994</data>
+    </edge>
+    <edge source="martin" target="murphy">
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="martin" target="kit">
+      <data key="d3">6.0</data>
+    </edge>
+    <edge source="martin" target="stars">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="martin" target="mind">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="martin" target="head">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="martin" target="offers">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="martin" target="steve">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="martin" target="rain">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="martin" target="chubby">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="murphy" target="kit">
+      <data key="d3">3.6</data>
+    </edge>
+    <edge source="murphy" target="stars">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="murphy" target="mind">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="murphy" target="head">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="murphy" target="offers">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="murphy" target="steve">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="murphy" target="rain">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="murphy" target="chubby">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="kit" target="stars">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="kit" target="mind">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="kit" target="head">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="kit" target="offers">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="kit" target="steve">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="kit" target="rain">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="kit" target="chubby">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="stars" target="mind">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="stars" target="head">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="stars" target="offers">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="stars" target="steve">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="stars" target="rain">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="stars" target="chubby">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="mind" target="head">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="mind" target="offers">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="mind" target="steve">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="mind" target="rain">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="mind" target="chubby">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="head" target="offers">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="head" target="steve">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="head" target="rain">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="head" target="chubby">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="offers" target="steve">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="offers" target="rain">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="offers" target="chubby">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="steve" target="rain">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="steve" target="chubby">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="rain" target="chubby">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="alda" target="ned">
+      <data key="d3">4.8</data>
+    </edge>
+    <edge source="alda" target="argento">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="alda" target="ringwald">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="alda" target="devine">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="alda" target="suspiria">
+      <data key="d3">4.0</data>
+    </edge>
+    <edge source="alda" target="lapaglia">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="alda" target="would">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="alda" target="mary">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="alda" target="comedy">
+      <data key="d3">3.2</data>
+    </edge>
+    <edge source="alda" target="wedding">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="ned" target="argento">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="ned" target="ringwald">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="ned" target="devine">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="ned" target="suspiria">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="ned" target="lapaglia">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="ned" target="would">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="ned" target="mary">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="ned" target="comedy">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="ned" target="wedding">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="argento" target="ringwald">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="argento" target="devine">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="argento" target="suspiria">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="argento" target="lapaglia">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="argento" target="would">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="argento" target="mary">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="argento" target="comedy">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="argento" target="wedding">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="ringwald" target="devine">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="ringwald" target="suspiria">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="ringwald" target="lapaglia">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="ringwald" target="would">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="ringwald" target="mary">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="ringwald" target="comedy">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="ringwald" target="wedding">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="devine" target="suspiria">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="devine" target="lapaglia">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="devine" target="would">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="devine" target="mary">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="devine" target="comedy">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="devine" target="wedding">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="suspiria" target="lapaglia">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="suspiria" target="would">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="suspiria" target="mary">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="suspiria" target="comedy">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="suspiria" target="wedding">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="lapaglia" target="would">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="lapaglia" target="mary">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="lapaglia" target="comedy">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="lapaglia" target="wedding">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="would" target="mary">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="would" target="comedy">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="would" target="wedding">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="would" target="movies">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="would" target="people">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="would" target="new">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="would" target="black">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="would" target="plot">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="would" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="would" target="jackie">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="would" target="tarantino">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="would" target="brown">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="would" target="character">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="would" target="really">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="would" target="first">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="mary" target="comedy">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="mary" target="wedding">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="comedy" target="wedding">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="roommates" target="dinner">
+      <data key="d3">4.9</data>
+    </edge>
+    <edge source="roommates" target="vitti">
+      <data key="d3">4.2</data>
+    </edge>
+    <edge source="roommates" target="guest">
+      <data key="d3">3.5000000000000004</data>
+    </edge>
+    <edge source="roommates" target="zack">
+      <data key="d3">3.5000000000000004</data>
+    </edge>
+    <edge source="roommates" target="analyze">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="roommates" target="funny">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="roommates" target="right">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="roommates" target="gangster">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="roommates" target="enough">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="roommates" target="pete">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="dinner" target="vitti">
+      <data key="d3">4.2</data>
+    </edge>
+    <edge source="dinner" target="guest">
+      <data key="d3">3.5000000000000004</data>
+    </edge>
+    <edge source="dinner" target="zack">
+      <data key="d3">3.5000000000000004</data>
+    </edge>
+    <edge source="dinner" target="analyze">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="dinner" target="funny">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="dinner" target="right">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="dinner" target="gangster">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="dinner" target="enough">
+      <data key="d3">2.8000000000000003</data>
+    </edge>
+    <edge source="dinner" target="pete">
+      <data key="d3">2.1</data>
+    </edge>
+    <edge source="vitti" target="guest">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="vitti" target="zack">
+      <data key="d3">3.0</data>
+    </edge>
+    <edge source="vitti" target="analyze">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="vitti" target="funny">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="vitti" target="right">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="vitti" target="gangster">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="vitti" target="enough">
+      <data key="d3">2.4</data>
+    </edge>
+    <edge source="vitti" target="pete">
+      <data key="d3">1.8</data>
+    </edge>
+    <edge source="guest" target="zack">
+      <data key="d3">2.5000000000000004</data>
+    </edge>
+    <edge source="guest" target="analyze">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="guest" target="funny">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="guest" target="right">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="guest" target="gangster">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="guest" target="enough">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="guest" target="pete">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="zack" target="analyze">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="zack" target="funny">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="zack" target="right">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="zack" target="gangster">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="zack" target="enough">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="zack" target="pete">
+      <data key="d3">1.5</data>
+    </edge>
+    <edge source="analyze" target="funny">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="analyze" target="right">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="analyze" target="gangster">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="analyze" target="enough">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="analyze" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="funny" target="right">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="funny" target="gangster">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="funny" target="enough">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="funny" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="right" target="gangster">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="right" target="enough">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="right" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="gangster" target="enough">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="gangster" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="enough" target="pete">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="character" target="truman">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="character" target="really">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="character" target="action">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="character" target="show">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="character" target="re">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="character" target="films">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="character" target="jackie">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="character" target="tarantino">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="character" target="brown">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="truman" target="really">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="truman" target="action">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="truman" target="show">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="truman" target="re">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="truman" target="films">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="really" target="action">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="really" target="show">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="really" target="re">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="really" target="films">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="really" target="jackie">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="really" target="tarantino">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="really" target="brown">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="action" target="show">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="action" target="re">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="action" target="films">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="show" target="re">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="show" target="films">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="re" target="films">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="movies" target="people">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movies" target="new">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movies" target="black">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movies" target="plot">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="movies" target="also">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="people" target="new">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="people" target="black">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="people" target="plot">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="people" target="also">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="people" target="first">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="new" target="black">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="new" target="plot">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="new" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="black" target="plot">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="black" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="plot" target="also">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="also" target="first">
+      <data key="d3">1.2</data>
+    </edge>
+    <edge source="also" target="little">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="also" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="jackie" target="tarantino">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="jackie" target="brown">
+      <data key="d3">2.0</data>
+    </edge>
+    <edge source="tarantino" target="brown">
+      <data key="d3">1.6</data>
+    </edge>
+    <edge source="little" target="war">
+      <data key="d3">0.9</data>
+    </edge>
+  </graph>
+</graphml>

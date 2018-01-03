@@ -16,8 +16,10 @@ tests/coverage_html/
 tests/.coverage
 build/
 models/*
+models1/*
 word_models/*
 tensorboard/*
+tensorboard1/*
 *.txt
 *.dict
 *.mm

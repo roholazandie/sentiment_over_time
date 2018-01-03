@@ -1,7 +1,7 @@
 import os
 
 
-class Sentences(object):
+class DirectorySentences(object):
     def __init__(self, dirnames):
         self.dirnames = dirnames
 
@@ -17,7 +17,7 @@ class Sentences(object):
 
 
 if __name__ == "__main__":
-    sentces = Sentences(["negativeReviews", "positiveReviews"])
+    sentces = DirectorySentences(["negativeReviews", "positiveReviews"])
     i = 0
     for s in sentces:
         print(s)

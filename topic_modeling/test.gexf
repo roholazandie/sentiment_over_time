@@ -1,0 +1,933 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="importance" type="double" />
+      <attribute id="1" title="x" type="double" />
+      <attribute id="2" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="amp" label="amp">
+        <attvalues>
+          <attvalue for="0" value="16.0" />
+          <attvalue for="1" value="0.463478458273146" />
+          <attvalue for="2" value="0.5608566531895368" />
+        </attvalues>
+      </node>
+      <node id="head" label="head">
+        <attvalues>
+          <attvalue for="0" value="24.0" />
+          <attvalue for="1" value="0.7881015329778229" />
+          <attvalue for="2" value="0.2684149457658882" />
+        </attvalues>
+      </node>
+      <node id="incorrect" label="incorrect">
+        <attvalues>
+          <attvalue for="0" value="21.000000000000004" />
+          <attvalue for="1" value="0.7634874753318888" />
+          <attvalue for="2" value="0.4345728878975334" />
+        </attvalues>
+      </node>
+      <node id="year" label="year">
+        <attvalues>
+          <attvalue for="0" value="16.0" />
+          <attvalue for="1" value="0.6028418154333358" />
+          <attvalue for="2" value="0.3699292212623601" />
+        </attvalues>
+      </node>
+      <node id="says" label="says">
+        <attvalues>
+          <attvalue for="0" value="21.000000000000004" />
+          <attvalue for="1" value="0.6967039415197065" />
+          <attvalue for="2" value="0.28855300822472846" />
+        </attvalues>
+      </node>
+      <node id="person" label="person">
+        <attvalues>
+          <attvalue for="0" value="23.0" />
+          <attvalue for="1" value="0.6344391339098562" />
+          <attvalue for="2" value="0.38015920117984886" />
+        </attvalues>
+      </node>
+      <node id="last" label="last">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.9060126561593772" />
+          <attvalue for="2" value="0.39787338463966215" />
+        </attvalues>
+      </node>
+      <node id="two" label="two">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.8130869263382032" />
+          <attvalue for="2" value="0.4468660587318487" />
+        </attvalues>
+      </node>
+      <node id="rise" label="rise">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.8138115080803779" />
+          <attvalue for="2" value="0.38504701999306923" />
+        </attvalues>
+      </node>
+      <node id="stop" label="stop">
+        <attvalues>
+          <attvalue for="0" value="12.0" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.2675092689776383" />
+        </attvalues>
+      </node>
+      <node id="national" label="national">
+        <attvalues>
+          <attvalue for="0" value="12.0" />
+          <attvalue for="1" value="0.8442431061556148" />
+          <attvalue for="2" value="0.3359376083723133" />
+        </attvalues>
+      </node>
+      <node id="foreign" label="foreign">
+        <attvalues>
+          <attvalue for="0" value="12.0" />
+          <attvalue for="1" value="0.8048163398854735" />
+          <attvalue for="2" value="0.5175323848478707" />
+        </attvalues>
+      </node>
+      <node id="arming" label="arming">
+        <attvalues>
+          <attvalue for="0" value="12.0" />
+          <attvalue for="1" value="0.8594265800554465" />
+          <attvalue for="2" value="0.2667455961367928" />
+        </attvalues>
+      </node>
+      <node id="militia" label="militia">
+        <attvalues>
+          <attvalue for="0" value="12.0" />
+          <attvalue for="1" value="0.8717634437891824" />
+          <attvalue for="2" value="0.4776833926083565" />
+        </attvalues>
+      </node>
+      <node id="trump" label="trump">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="0.7167199760955116" />
+          <attvalue for="2" value="0.33968591599531117" />
+        </attvalues>
+      </node>
+      <node id="man" label="man">
+        <attvalues>
+          <attvalue for="0" value="21.999999999999996" />
+          <attvalue for="1" value="0.4686606818496555" />
+          <attvalue for="2" value="0.7884138783618873" />
+        </attvalues>
+      </node>
+      <node id="won" label="won">
+        <attvalues>
+          <attvalue for="0" value="21.000000000000004" />
+          <attvalue for="1" value="0.34864364043167645" />
+          <attvalue for="2" value="0.7745513087233138" />
+        </attvalues>
+      </node>
+      <node id="people" label="people">
+        <attvalues>
+          <attvalue for="0" value="19.0" />
+          <attvalue for="1" value="0.4337515039789636" />
+          <attvalue for="2" value="0.8816793773883472" />
+        </attvalues>
+      </node>
+      <node id="support" label="support">
+        <attvalues>
+          <attvalue for="0" value="21.999999999999996" />
+          <attvalue for="1" value="0.45786021786376785" />
+          <attvalue for="2" value="0.6632492670768168" />
+        </attvalues>
+      </node>
+      <node id="many" label="many">
+        <attvalues>
+          <attvalue for="0" value="17.0" />
+          <attvalue for="1" value="0.30262126608740353" />
+          <attvalue for="2" value="0.7434135044521963" />
+        </attvalues>
+      </node>
+      <node id="disaster" label="disaster">
+        <attvalues>
+          <attvalue for="0" value="15.0" />
+          <attvalue for="1" value="0.32260094453993604" />
+          <attvalue for="2" value="0.8753051566828108" />
+        </attvalues>
+      </node>
+      <node id="president" label="president">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.45463436062814794" />
+          <attvalue for="2" value="0.8388939720023871" />
+        </attvalues>
+      </node>
+      <node id="honor" label="honor">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.27187088769937917" />
+          <attvalue for="2" value="0.7964826671187415" />
+        </attvalues>
+      </node>
+      <node id="like" label="like">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="0.3355011819899103" />
+          <attvalue for="2" value="0.5370054338284764" />
+        </attvalues>
+      </node>
+      <node id="total" label="total">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.3785029379886404" />
+          <attvalue for="2" value="0.9030938565461879" />
+        </attvalues>
+      </node>
+      <node id="tweet" label="tweet">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.2695444654025375" />
+          <attvalue for="2" value="0.8782236907559068" />
+        </attvalues>
+      </node>
+      <node id="say" label="say">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.429816519259814" />
+          <attvalue for="2" value="0.6412612069795558" />
+        </attvalues>
+      </node>
+      <node id="child" label="child">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.36571944020919983" />
+          <attvalue for="2" value="0.8366419278362802" />
+        </attvalues>
+      </node>
+      <node id="claim" label="claim">
+        <attvalues>
+          <attvalue for="0" value="9.0" />
+          <attvalue for="1" value="0.39605059474153476" />
+          <attvalue for="2" value="0.7719001178708129" />
+        </attvalues>
+      </node>
+      <node id="know" label="know">
+        <attvalues>
+          <attvalue for="0" value="10.999999999999998" />
+          <attvalue for="1" value="0.43892052819434174" />
+          <attvalue for="2" value="0.3666292933756902" />
+        </attvalues>
+      </node>
+      <node id="would" label="would">
+        <attvalues>
+          <attvalue for="0" value="10.999999999999998" />
+          <attvalue for="1" value="0.3065352414706222" />
+          <attvalue for="2" value="0.479215803888041" />
+        </attvalues>
+      </node>
+      <node id="start" label="start">
+        <attvalues>
+          <attvalue for="0" value="18.0" />
+          <attvalue for="1" value="0.16281962337026074" />
+          <attvalue for="2" value="0.49395866001697686" />
+        </attvalues>
+      </node>
+      <node id="married" label="married">
+        <attvalues>
+          <attvalue for="0" value="18.0" />
+          <attvalue for="1" value="0.1799288779459776" />
+          <attvalue for="2" value="0.35917872644476595" />
+        </attvalues>
+      </node>
+      <node id="fuck" label="fuck">
+        <attvalues>
+          <attvalue for="0" value="18.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.5560647042192648" />
+        </attvalues>
+      </node>
+      <node id="try" label="try">
+        <attvalues>
+          <attvalue for="0" value="18.0" />
+          <attvalue for="1" value="0.044074785688057005" />
+          <attvalue for="2" value="0.4194400819677567" />
+        </attvalues>
+      </node>
+      <node id="hell" label="hell">
+        <attvalues>
+          <attvalue for="0" value="15.0" />
+          <attvalue for="1" value="0.05792557267592356" />
+          <attvalue for="2" value="0.48323537026070235" />
+        </attvalues>
+      </node>
+      <node id="moved" label="moved">
+        <attvalues>
+          <attvalue for="0" value="14.000000000000002" />
+          <attvalue for="1" value="0.1191399905593918" />
+          <attvalue for="2" value="0.5689559858075531" />
+        </attvalues>
+      </node>
+      <node id="bitch" label="bitch">
+        <attvalues>
+          <attvalue for="0" value="14.000000000000002" />
+          <attvalue for="1" value="0.17631014702026193" />
+          <attvalue for="2" value="0.2858632410219964" />
+        </attvalues>
+      </node>
+      <node id="even" label="even">
+        <attvalues>
+          <attvalue for="0" value="10.999999999999998" />
+          <attvalue for="1" value="0.1156428064101001" />
+          <attvalue for="2" value="0.4299215109522592" />
+        </attvalues>
+      </node>
+      <node id="blocked" label="blocked">
+        <attvalues>
+          <attvalue for="0" value="10.999999999999998" />
+          <attvalue for="1" value="0.07593350619123232" />
+          <attvalue for="2" value="0.32914247214574605" />
+        </attvalues>
+      </node>
+      <node id="kissing" label="kissing">
+        <attvalues>
+          <attvalue for="0" value="10.999999999999998" />
+          <attvalue for="1" value="0.05075050763184059" />
+          <attvalue for="2" value="0.636895085582898" />
+        </attvalues>
+      </node>
+      <node id="message" label="message">
+        <attvalues>
+          <attvalue for="0" value="10.999999999999998" />
+          <attvalue for="1" value="0.1297796484692533" />
+          <attvalue for="2" value="0.6570645522135852" />
+        </attvalues>
+      </node>
+      <node id="said" label="said">
+        <attvalues>
+          <attvalue for="0" value="29.000000000000004" />
+          <attvalue for="1" value="0.5323882695496082" />
+          <attvalue for="2" value="0.5506332278810272" />
+        </attvalues>
+      </node>
+      <node id="named" label="named">
+        <attvalues>
+          <attvalue for="0" value="21.999999999999996" />
+          <attvalue for="1" value="0.5295679278023318" />
+          <attvalue for="2" value="0.49194773442819895" />
+        </attvalues>
+      </node>
+      <node id="tweets" label="tweets">
+        <attvalues>
+          <attvalue for="0" value="16.0" />
+          <attvalue for="1" value="0.3994166235485136" />
+          <attvalue for="2" value="0.430275359934954" />
+        </attvalues>
+      </node>
+      <node id="going" label="going">
+        <attvalues>
+          <attvalue for="0" value="16.0" />
+          <attvalue for="1" value="0.5097630089883685" />
+          <attvalue for="2" value="0.4177968822062876" />
+        </attvalues>
+      </node>
+      <node id="took" label="took">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.597780616114626" />
+          <attvalue for="2" value="0.602931620452391" />
+        </attvalues>
+      </node>
+      <node id="called" label="called">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.47279133542139035" />
+          <attvalue for="2" value="0.4834572470137652" />
+        </attvalues>
+      </node>
+      <node id="pass" label="pass">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.4158274192801342" />
+          <attvalue for="2" value="0.48858082069223036" />
+        </attvalues>
+      </node>
+      <node id="evidence" label="evidence">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.5942234802115491" />
+          <attvalue for="2" value="0.548201993226963" />
+        </attvalues>
+      </node>
+      <node id="donald" label="donald">
+        <attvalues>
+          <attvalue for="0" value="27.0" />
+          <attvalue for="1" value="0.5272191794377852" />
+          <attvalue for="2" value="0.12205290580627007" />
+        </attvalues>
+      </node>
+      <node id="still" label="still">
+        <attvalues>
+          <attvalue for="0" value="16.0" />
+          <attvalue for="1" value="0.6429993294677342" />
+          <attvalue for="2" value="0.15411795243528068" />
+        </attvalues>
+      </node>
+      <node id="ever" label="ever">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.5739924849370598" />
+          <attvalue for="2" value="0.131198267494001" />
+        </attvalues>
+      </node>
+      <node id="war" label="war">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.5451964436807671" />
+          <attvalue for="2" value="0.2104593625252571" />
+        </attvalues>
+      </node>
+      <node id="thing" label="thing">
+        <attvalues>
+          <attvalue for="0" value="13.0" />
+          <attvalue for="1" value="0.4914599874484039" />
+          <attvalue for="2" value="0.16653475491215688" />
+        </attvalues>
+      </node>
+      <node id="cover" label="cover">
+        <attvalues>
+          <attvalue for="0" value="10.999999999999998" />
+          <attvalue for="1" value="0.44418575280294365" />
+          <attvalue for="2" value="0.11779575416703932" />
+        </attvalues>
+      </node>
+      <node id="dont" label="dont">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.6296755574684287" />
+          <attvalue for="2" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="one" label="one">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.5002346684676994" />
+          <attvalue for="2" value="0.23853912358009016" />
+        </attvalues>
+      </node>
+      <node id="time" label="time">
+        <attvalues>
+          <attvalue for="0" value="10.0" />
+          <attvalue for="1" value="0.6048195897534623" />
+          <attvalue for="2" value="0.20028651675231593" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="amp" target="head" weight="0.7601473164220135" />
+      <edge id="1" source="amp" target="incorrect" weight="0.8625719389244103" />
+      <edge id="2" source="amp" target="year" weight="0.7478893373201817" />
+      <edge id="3" source="amp" target="says" weight="0.4607597953185223" />
+      <edge id="4" source="amp" target="person" weight="0.9087166006782958" />
+      <edge id="5" source="amp" target="last" weight="0.6095317797405682" />
+      <edge id="6" source="amp" target="two" weight="0.9070419950809671" />
+      <edge id="7" source="amp" target="rise" weight="0.8608613950454793" />
+      <edge id="8" source="amp" target="stop" weight="0.19940063997912508" />
+      <edge id="9" source="amp" target="national" weight="0.7261588645882399" />
+      <edge id="10" source="amp" target="foreign" weight="0.6716567487102912" />
+      <edge id="11" source="amp" target="arming" weight="0.5951196730157999" />
+      <edge id="12" source="amp" target="militia" weight="0.5951238779674839" />
+      <edge id="13" source="amp" target="trump" weight="1.2621111280048034" />
+      <edge id="14" source="amp" target="man" weight="1.115373136674213" />
+      <edge id="15" source="amp" target="won" weight="1.1333263204539157" />
+      <edge id="16" source="amp" target="people" weight="0.9212706311981719" />
+      <edge id="17" source="amp" target="support" weight="1.0190057004357425" />
+      <edge id="18" source="amp" target="many" weight="1.1677990486066432" />
+      <edge id="19" source="amp" target="disaster" weight="1.1912189099188526" />
+      <edge id="20" source="amp" target="president" weight="1.0920282773927286" />
+      <edge id="21" source="amp" target="honor" weight="1.0899361449862945" />
+      <edge id="22" source="amp" target="like" weight="0.5221344869518169" />
+      <edge id="23" source="amp" target="total" weight="1.213742689409584" />
+      <edge id="24" source="amp" target="tweet" weight="0.6746500280401322" />
+      <edge id="25" source="amp" target="say" weight="1.3443304314556943" />
+      <edge id="26" source="amp" target="child" weight="0.9333006378148849" />
+      <edge id="27" source="amp" target="claim" weight="1.23185532935573" />
+      <edge id="28" source="amp" target="know" weight="0.3975641832682844" />
+      <edge id="29" source="amp" target="would" weight="0.30071435316134987" />
+      <edge id="30" source="amp" target="start" weight="0.6559149502671021" />
+      <edge id="31" source="amp" target="married" weight="0.6174460708428136" />
+      <edge id="32" source="amp" target="fuck" weight="0.617449216082579" />
+      <edge id="33" source="amp" target="try" weight="0.6174604057788494" />
+      <edge id="34" source="amp" target="hell" weight="0.4461722330603611" />
+      <edge id="35" source="amp" target="moved" weight="0.5726408492623001" />
+      <edge id="36" source="amp" target="bitch" weight="0.5726451734565475" />
+      <edge id="37" source="amp" target="even" weight="0.5704773965639426" />
+      <edge id="38" source="amp" target="blocked" weight="0.5661769732313074" />
+      <edge id="39" source="amp" target="kissing" weight="0.5662980683582562" />
+      <edge id="40" source="amp" target="message" weight="0.5662061070030409" />
+      <edge id="41" source="amp" target="said" weight="1.1207308444911441" />
+      <edge id="42" source="amp" target="named" weight="1.3835588016447158" />
+      <edge id="43" source="amp" target="tweets" weight="1.066425602079554" />
+      <edge id="44" source="amp" target="going" weight="0.8136134326813691" />
+      <edge id="45" source="amp" target="took" weight="0.6383952046661421" />
+      <edge id="46" source="amp" target="called" weight="1.225414892237868" />
+      <edge id="47" source="amp" target="pass" weight="1.1231866116870446" />
+      <edge id="48" source="amp" target="evidence" weight="0.5947299430328974" />
+      <edge id="49" source="head" target="incorrect" weight="0.019311485862729925" />
+      <edge id="50" source="head" target="year" weight="0.9419404385848771" />
+      <edge id="51" source="head" target="says" weight="1.0093125145150577" />
+      <edge id="52" source="head" target="person" weight="1.208126580300997" />
+      <edge id="53" source="head" target="last" weight="0.5075453225537653" />
+      <edge id="54" source="head" target="two" weight="0.27632617313063035" />
+      <edge id="55" source="head" target="rise" weight="0.018900431981013023" />
+      <edge id="56" source="head" target="stop" weight="0.412592316289168" />
+      <edge id="57" source="head" target="national" weight="0.03035294153378304" />
+      <edge id="58" source="head" target="foreign" weight="0.026970050342789598" />
+      <edge id="59" source="head" target="arming" weight="0.031788273981457386" />
+      <edge id="60" source="head" target="militia" weight="0.03178752463832957" />
+      <edge id="61" source="head" target="trump" weight="1.628152976027607" />
+      <edge id="62" source="incorrect" target="year" weight="1.0897553974948533" />
+      <edge id="63" source="incorrect" target="says" weight="1.1324425487061862" />
+      <edge id="64" source="incorrect" target="person" weight="1.3750221759865564" />
+      <edge id="65" source="incorrect" target="last" weight="0.5534388794560408" />
+      <edge id="66" source="incorrect" target="two" weight="0.28493255080835905" />
+      <edge id="67" source="incorrect" target="rise" weight="0.0019842597493764393" />
+      <edge id="68" source="incorrect" target="stop" weight="0.4240271415067475" />
+      <edge id="69" source="incorrect" target="national" weight="0.02878584302946379" />
+      <edge id="70" source="incorrect" target="foreign" weight="0.04320940301880109" />
+      <edge id="71" source="incorrect" target="arming" weight="0.06441122049544036" />
+      <edge id="72" source="incorrect" target="militia" weight="0.06440994530268757" />
+      <edge id="73" source="incorrect" target="trump" weight="1.7281890519316887" />
+      <edge id="74" source="year" target="says" weight="0.43434047094345124" />
+      <edge id="75" source="year" target="person" weight="0.06665601507135052" />
+      <edge id="76" source="year" target="last" weight="0.6114886793821429" />
+      <edge id="77" source="year" target="two" weight="0.8372810755456825" />
+      <edge id="78" source="year" target="rise" weight="0.7740039517616185" />
+      <edge id="79" source="year" target="stop" weight="0.48042913188290415" />
+      <edge id="80" source="year" target="national" weight="0.624812140447454" />
+      <edge id="81" source="year" target="foreign" weight="0.6890795101008977" />
+      <edge id="82" source="year" target="arming" weight="0.6316451738264028" />
+      <edge id="83" source="year" target="militia" weight="0.631648121561993" />
+      <edge id="84" source="year" target="trump" weight="0.7331773329769153" />
+      <edge id="85" source="year" target="said" weight="0.9829574962253588" />
+      <edge id="86" source="year" target="support" weight="1.0374182495514648" />
+      <edge id="87" source="year" target="named" weight="1.107676253652289" />
+      <edge id="88" source="year" target="tweets" weight="0.5677949626001967" />
+      <edge id="89" source="year" target="going" weight="0.8303435236075372" />
+      <edge id="90" source="year" target="took" weight="0.8234241765322843" />
+      <edge id="91" source="year" target="called" weight="0.7872257426071703" />
+      <edge id="92" source="year" target="pass" weight="0.7111511457699277" />
+      <edge id="93" source="year" target="would" weight="0.8238157829020691" />
+      <edge id="94" source="year" target="evidence" weight="0.4459047170859662" />
+      <edge id="95" source="year" target="say" weight="1.4139944771142638" />
+      <edge id="96" source="year" target="know" weight="1.298537073627908" />
+      <edge id="97" source="year" target="like" weight="0.5225117117976947" />
+      <edge id="98" source="year" target="donald" weight="0.8740782462239269" />
+      <edge id="99" source="year" target="still" weight="1.1322776480243282" />
+      <edge id="100" source="year" target="ever" weight="0.7338554887563071" />
+      <edge id="101" source="year" target="war" weight="0.9539149378311592" />
+      <edge id="102" source="year" target="thing" weight="0.43605520762003536" />
+      <edge id="103" source="year" target="cover" weight="0.5527620617720492" />
+      <edge id="104" source="year" target="dont" weight="0.857526372309839" />
+      <edge id="105" source="year" target="one" weight="1.0990559868698728" />
+      <edge id="106" source="year" target="time" weight="0.7627412994314483" />
+      <edge id="107" source="says" target="person" weight="0.6442055059431756" />
+      <edge id="108" source="says" target="last" weight="0.5312215081436229" />
+      <edge id="109" source="says" target="two" weight="0.9960542836349139" />
+      <edge id="110" source="says" target="rise" weight="0.9943521311616775" />
+      <edge id="111" source="says" target="stop" weight="0.5584951718294511" />
+      <edge id="112" source="says" target="national" weight="0.8034625218636212" />
+      <edge id="113" source="says" target="foreign" weight="0.7944802141643198" />
+      <edge id="114" source="says" target="arming" weight="0.7172046546494634" />
+      <edge id="115" source="says" target="militia" weight="0.7172092571232651" />
+      <edge id="116" source="says" target="trump" weight="0.5879085187128151" />
+      <edge id="117" source="says" target="like" weight="0.4410634669430971" />
+      <edge id="118" source="says" target="donald" weight="0.650160747127405" />
+      <edge id="119" source="says" target="still" weight="0.3194427223883581" />
+      <edge id="120" source="says" target="ever" weight="0.5979834480831913" />
+      <edge id="121" source="says" target="war" weight="0.5937720891825126" />
+      <edge id="122" source="says" target="thing" weight="0.7326433857742525" />
+      <edge id="123" source="says" target="cover" weight="0.3116607051285991" />
+      <edge id="124" source="says" target="know" weight="0.9599064991531181" />
+      <edge id="125" source="says" target="dont" weight="0.3147490952919776" />
+      <edge id="126" source="says" target="one" weight="0.6428000047154951" />
+      <edge id="127" source="says" target="time" weight="0.5938148068093324" />
+      <edge id="128" source="person" target="last" weight="0.6539955459075827" />
+      <edge id="129" source="person" target="two" weight="0.9265141753342755" />
+      <edge id="130" source="person" target="rise" weight="1.108451366108216" />
+      <edge id="131" source="person" target="stop" weight="0.681890260512693" />
+      <edge id="132" source="person" target="national" weight="0.9184707832844957" />
+      <edge id="133" source="person" target="foreign" weight="0.9878569992231792" />
+      <edge id="134" source="person" target="arming" weight="0.9056714801987084" />
+      <edge id="135" source="person" target="militia" weight="0.905675538531742" />
+      <edge id="136" source="person" target="trump" weight="0.6496444547877268" />
+      <edge id="137" source="person" target="said" weight="0.8304100641983649" />
+      <edge id="138" source="person" target="support" weight="0.9403817195302411" />
+      <edge id="139" source="person" target="named" weight="0.935517034568403" />
+      <edge id="140" source="person" target="tweets" weight="0.3867471721269654" />
+      <edge id="141" source="person" target="going" weight="0.7253445025884393" />
+      <edge id="142" source="person" target="took" weight="0.8331272751383626" />
+      <edge id="143" source="person" target="called" weight="0.7245020038900359" />
+      <edge id="144" source="person" target="pass" weight="0.6490920956413119" />
+      <edge id="145" source="person" target="would" weight="0.8424036496280205" />
+      <edge id="146" source="person" target="evidence" weight="0.36807427603523707" />
+      <edge id="147" source="person" target="say" weight="1.004428933962935" />
+      <edge id="148" source="person" target="know" weight="1.3352331688891923" />
+      <edge id="149" source="person" target="like" weight="0.4617798093885236" />
+      <edge id="150" source="person" target="donald" weight="0.665618291250079" />
+      <edge id="151" source="person" target="still" weight="0.8504318352886163" />
+      <edge id="152" source="person" target="ever" weight="0.5202412868281835" />
+      <edge id="153" source="person" target="war" weight="0.8169722949468907" />
+      <edge id="154" source="person" target="thing" weight="0.2732503909561485" />
+      <edge id="155" source="person" target="cover" weight="0.47174113203499096" />
+      <edge id="156" source="person" target="dont" weight="0.7507995431685027" />
+      <edge id="157" source="person" target="one" weight="0.8366838541421587" />
+      <edge id="158" source="person" target="time" weight="0.6029169663341554" />
+      <edge id="159" source="last" target="two" weight="0.20668016344134443" />
+      <edge id="160" source="last" target="rise" weight="0.36843864216309297" />
+      <edge id="161" source="last" target="stop" weight="0.4636828728623983" />
+      <edge id="162" source="last" target="national" weight="0.26731328967341084" />
+      <edge id="163" source="last" target="foreign" weight="0.3043616266602653" />
+      <edge id="164" source="last" target="arming" weight="0.2740075673273422" />
+      <edge id="165" source="last" target="militia" weight="0.27400934453851533" />
+      <edge id="166" source="last" target="trump" weight="0.5273032385097522" />
+      <edge id="167" source="two" target="rise" weight="0.14595103786801067" />
+      <edge id="168" source="two" target="stop" weight="0.47550798134321354" />
+      <edge id="169" source="two" target="national" weight="0.14057392644102437" />
+      <edge id="170" source="two" target="foreign" weight="0.1500971021360149" />
+      <edge id="171" source="two" target="arming" weight="0.15358721688843252" />
+      <edge id="172" source="two" target="militia" weight="0.15358702364008223" />
+      <edge id="173" source="two" target="trump" weight="1.3220737311025141" />
+      <edge id="174" source="rise" target="stop" weight="0.4397958198445517" />
+      <edge id="175" source="rise" target="national" weight="0.022744946924183454" />
+      <edge id="176" source="rise" target="foreign" weight="0.035716009660414945" />
+      <edge id="177" source="rise" target="arming" weight="0.057057183207679045" />
+      <edge id="178" source="rise" target="militia" weight="0.057055972628186395" />
+      <edge id="179" source="rise" target="trump" weight="1.6618546981503208" />
+      <edge id="180" source="stop" target="national" weight="0.2490954106912774" />
+      <edge id="181" source="stop" target="foreign" weight="0.22540372489715602" />
+      <edge id="182" source="stop" target="arming" weight="0.19554117870432133" />
+      <edge id="183" source="stop" target="militia" weight="0.19554292374263343" />
+      <edge id="184" source="stop" target="trump" weight="1.359429781688533" />
+      <edge id="185" source="national" target="foreign" weight="0.028806330015135953" />
+      <edge id="186" source="national" target="arming" weight="0.03694328026508287" />
+      <edge id="187" source="national" target="militia" weight="0.03694280510468926" />
+      <edge id="188" source="national" target="trump" weight="1.1740149370573703" />
+      <edge id="189" source="foreign" target="arming" weight="0.005065869533751709" />
+      <edge id="190" source="foreign" target="militia" weight="0.005065446440086623" />
+      <edge id="191" source="foreign" target="trump" weight="1.4575092486536143" />
+      <edge id="192" source="arming" target="militia" weight="1.1713344145891417e-11" />
+      <edge id="193" source="arming" target="trump" weight="1.3676649752255745" />
+      <edge id="194" source="militia" target="trump" weight="1.3676703513723494" />
+      <edge id="195" source="trump" target="like" weight="0.34972719641865446" />
+      <edge id="196" source="trump" target="donald" weight="0.26742822041720493" />
+      <edge id="197" source="trump" target="still" weight="0.43366075810852256" />
+      <edge id="198" source="trump" target="ever" weight="0.1906936574121577" />
+      <edge id="199" source="trump" target="war" weight="0.2655658190145842" />
+      <edge id="200" source="trump" target="thing" weight="0.6715831570732368" />
+      <edge id="201" source="trump" target="cover" weight="0.25879561081028296" />
+      <edge id="202" source="trump" target="know" weight="1.280088008326078" />
+      <edge id="203" source="trump" target="dont" weight="0.30796747394629126" />
+      <edge id="204" source="trump" target="one" weight="0.6142404787872824" />
+      <edge id="205" source="trump" target="time" weight="0.5391444539528695" />
+      <edge id="206" source="man" target="won" weight="0.29376236108141485" />
+      <edge id="207" source="man" target="people" weight="0.47104498937422923" />
+      <edge id="208" source="man" target="support" weight="0.9615311087331367" />
+      <edge id="209" source="man" target="many" weight="0.2305087330664462" />
+      <edge id="210" source="man" target="disaster" weight="0.1788809991900449" />
+      <edge id="211" source="man" target="president" weight="0.8608592554584399" />
+      <edge id="212" source="man" target="honor" weight="0.4674958280539652" />
+      <edge id="213" source="man" target="like" weight="1.1860749968826048" />
+      <edge id="214" source="man" target="total" weight="0.22316483958771005" />
+      <edge id="215" source="man" target="tweet" weight="0.6663746410411158" />
+      <edge id="216" source="man" target="say" weight="1.2642790238243822" />
+      <edge id="217" source="man" target="child" weight="0.6154550982308962" />
+      <edge id="218" source="man" target="claim" weight="0.4415719860063259" />
+      <edge id="219" source="won" target="people" weight="1.207061826797398" />
+      <edge id="220" source="won" target="support" weight="1.2666369960718615" />
+      <edge id="221" source="won" target="many" weight="0.6793825666003936" />
+      <edge id="222" source="won" target="disaster" weight="0.20152351391263784" />
+      <edge id="223" source="won" target="president" weight="1.1266299754125981" />
+      <edge id="224" source="won" target="honor" weight="0.5605841248159886" />
+      <edge id="225" source="won" target="like" weight="1.3052363502085595" />
+      <edge id="226" source="won" target="total" weight="0.2872192945740757" />
+      <edge id="227" source="won" target="tweet" weight="1.0929819667793155" />
+      <edge id="228" source="won" target="say" weight="1.6501404403383308" />
+      <edge id="229" source="won" target="child" weight="1.169603543335932" />
+      <edge id="230" source="won" target="claim" weight="1.259806890389572" />
+      <edge id="231" source="people" target="support" weight="1.0684721769001826" />
+      <edge id="232" source="people" target="many" weight="0.22797832125977902" />
+      <edge id="233" source="people" target="disaster" weight="0.619710342871529" />
+      <edge id="234" source="people" target="president" weight="0.3924038251297252" />
+      <edge id="235" source="people" target="honor" weight="0.6672891797406398" />
+      <edge id="236" source="people" target="like" weight="0.6758697754067549" />
+      <edge id="237" source="people" target="total" weight="0.5758762476704035" />
+      <edge id="238" source="people" target="tweet" weight="0.4505734867503719" />
+      <edge id="239" source="people" target="say" weight="0.7843500032242006" />
+      <edge id="240" source="people" target="child" weight="0.8577273032816978" />
+      <edge id="241" source="people" target="claim" weight="1.3031765733416345" />
+      <edge id="242" source="support" target="many" weight="0.5808373653466781" />
+      <edge id="243" source="support" target="disaster" weight="0.5408083594451804" />
+      <edge id="244" source="support" target="president" weight="0.8744522626133665" />
+      <edge id="245" source="support" target="honor" weight="0.37579159668785855" />
+      <edge id="246" source="support" target="like" weight="1.120501988444131" />
+      <edge id="247" source="support" target="total" weight="0.5393971955784175" />
+      <edge id="248" source="support" target="tweet" weight="0.7567224455972701" />
+      <edge id="249" source="support" target="say" weight="1.0439935354546461" />
+      <edge id="250" source="support" target="child" weight="1.2365509295871948" />
+      <edge id="251" source="support" target="claim" weight="1.317249891137504" />
+      <edge id="252" source="support" target="said" weight="0.6637063479326479" />
+      <edge id="253" source="support" target="named" weight="0.5033147418166399" />
+      <edge id="254" source="support" target="tweets" weight="0.46630067234826406" />
+      <edge id="255" source="support" target="going" weight="0.19856652639037325" />
+      <edge id="256" source="support" target="took" weight="0.6161793831131898" />
+      <edge id="257" source="support" target="called" weight="0.3659208106109697" />
+      <edge id="258" source="support" target="pass" weight="0.334132603229827" />
+      <edge id="259" source="support" target="would" weight="0.9082208763077806" />
+      <edge id="260" source="support" target="evidence" weight="0.733223305808035" />
+      <edge id="261" source="support" target="know" weight="1.4382398782310142" />
+      <edge id="262" source="many" target="disaster" weight="0.3614802193667422" />
+      <edge id="263" source="many" target="president" weight="0.6374724953876418" />
+      <edge id="264" source="many" target="honor" weight="0.639629337982872" />
+      <edge id="265" source="many" target="like" weight="1.2307814757099365" />
+      <edge id="266" source="many" target="total" weight="0.4145933353666854" />
+      <edge id="267" source="many" target="tweet" weight="0.6889836358566132" />
+      <edge id="268" source="many" target="say" weight="1.581566857575507" />
+      <edge id="269" source="many" target="child" weight="1.258544915519008" />
+      <edge id="270" source="many" target="claim" weight="1.2622618060909554" />
+      <edge id="271" source="disaster" target="president" weight="0.8421892874436674" />
+      <edge id="272" source="disaster" target="honor" weight="0.39522938889579595" />
+      <edge id="273" source="disaster" target="like" weight="0.8276416219922835" />
+      <edge id="274" source="disaster" target="total" weight="0.009354527038995324" />
+      <edge id="275" source="disaster" target="tweet" weight="0.7874932355462525" />
+      <edge id="276" source="disaster" target="say" weight="1.328590996816056" />
+      <edge id="277" source="disaster" target="child" weight="1.0051618566346596" />
+      <edge id="278" source="disaster" target="claim" weight="1.0126243419642624" />
+      <edge id="279" source="president" target="honor" weight="0.39748328697494173" />
+      <edge id="280" source="president" target="like" weight="0.9883168557886013" />
+      <edge id="281" source="president" target="total" weight="0.6490461621452618" />
+      <edge id="282" source="president" target="tweet" weight="0.140009289491817" />
+      <edge id="283" source="president" target="say" weight="0.3705745659333089" />
+      <edge id="284" source="president" target="child" weight="0.7752846239394674" />
+      <edge id="285" source="president" target="claim" weight="1.2842645083101745" />
+      <edge id="286" source="honor" target="like" weight="1.1977865374389356" />
+      <edge id="287" source="honor" target="total" weight="0.32902155765953833" />
+      <edge id="288" source="honor" target="tweet" weight="0.5423748174562986" />
+      <edge id="289" source="honor" target="say" weight="0.9461908338106958" />
+      <edge id="290" source="honor" target="child" weight="0.9149833996998646" />
+      <edge id="291" source="honor" target="claim" weight="1.0992906959041755" />
+      <edge id="292" source="like" target="total" weight="0.8469889413828278" />
+      <edge id="293" source="like" target="tweet" weight="0.5866014428943294" />
+      <edge id="294" source="like" target="say" weight="1.0722695509745475" />
+      <edge id="295" source="like" target="child" weight="0.947226191305901" />
+      <edge id="296" source="like" target="claim" weight="1.475437430999089" />
+      <edge id="297" source="like" target="know" weight="0.4277408941708415" />
+      <edge id="298" source="like" target="would" weight="0.3063420479318814" />
+      <edge id="299" source="like" target="start" weight="0.9774291408645881" />
+      <edge id="300" source="like" target="married" weight="0.9531073278669695" />
+      <edge id="301" source="like" target="fuck" weight="0.9531117327528671" />
+      <edge id="302" source="like" target="try" weight="0.9531256536680927" />
+      <edge id="303" source="like" target="hell" weight="0.6790311513604778" />
+      <edge id="304" source="like" target="moved" weight="0.8917149950550357" />
+      <edge id="305" source="like" target="bitch" weight="0.891720266554607" />
+      <edge id="306" source="like" target="even" weight="0.5730936570971726" />
+      <edge id="307" source="like" target="blocked" weight="0.8720381526267603" />
+      <edge id="308" source="like" target="kissing" weight="0.8721804247828936" />
+      <edge id="309" source="like" target="message" weight="0.8720622571451037" />
+      <edge id="310" source="like" target="donald" weight="0.29853156793086333" />
+      <edge id="311" source="like" target="still" weight="0.35743877415898756" />
+      <edge id="312" source="like" target="ever" weight="0.3478935300714764" />
+      <edge id="313" source="like" target="war" weight="0.47749045200050433" />
+      <edge id="314" source="like" target="thing" weight="0.5970114313467332" />
+      <edge id="315" source="like" target="cover" weight="0.3016203090469817" />
+      <edge id="316" source="like" target="dont" weight="0.3837666420082578" />
+      <edge id="317" source="like" target="one" weight="0.8147232526576391" />
+      <edge id="318" source="like" target="time" weight="0.5876523754137158" />
+      <edge id="319" source="total" target="tweet" weight="0.7347850219546079" />
+      <edge id="320" source="total" target="say" weight="1.2672857910309532" />
+      <edge id="321" source="total" target="child" weight="0.9486267680662894" />
+      <edge id="322" source="total" target="claim" weight="0.9770222347547416" />
+      <edge id="323" source="tweet" target="say" weight="0.47966106394698643" />
+      <edge id="324" source="tweet" target="child" weight="0.3288680623545825" />
+      <edge id="325" source="tweet" target="claim" weight="0.5505121285206089" />
+      <edge id="326" source="say" target="child" weight="0.7564376665437494" />
+      <edge id="327" source="say" target="claim" weight="1.4649850037138752" />
+      <edge id="328" source="say" target="said" weight="1.5191296898989322" />
+      <edge id="329" source="say" target="named" weight="1.362357807427785" />
+      <edge id="330" source="say" target="tweets" weight="0.5750593623978353" />
+      <edge id="331" source="say" target="going" weight="0.40077567694928373" />
+      <edge id="332" source="say" target="took" weight="1.1836513926805234" />
+      <edge id="333" source="say" target="called" weight="1.24636402199769" />
+      <edge id="334" source="say" target="pass" weight="1.1607204158607465" />
+      <edge id="335" source="say" target="would" weight="0.7350988097826543" />
+      <edge id="336" source="say" target="evidence" weight="0.616584025513302" />
+      <edge id="337" source="say" target="know" weight="1.4638430177790356" />
+      <edge id="338" source="child" target="claim" weight="0.243203828900587" />
+      <edge id="339" source="know" target="would" weight="0.2044837186509304" />
+      <edge id="340" source="know" target="start" weight="0.34680333283216297" />
+      <edge id="341" source="know" target="married" weight="0.3422824559699695" />
+      <edge id="342" source="know" target="fuck" weight="0.3422847725366213" />
+      <edge id="343" source="know" target="try" weight="0.3422912786557904" />
+      <edge id="344" source="know" target="hell" weight="0.44817235718494064" />
+      <edge id="345" source="know" target="moved" weight="0.31139762025861356" />
+      <edge id="346" source="know" target="bitch" weight="0.31139967717755646" />
+      <edge id="347" source="know" target="even" weight="0.8061333917225526" />
+      <edge id="348" source="know" target="blocked" weight="0.2965309376138068" />
+      <edge id="349" source="know" target="kissing" weight="0.29658982733771644" />
+      <edge id="350" source="know" target="message" weight="0.29653575721385506" />
+      <edge id="351" source="know" target="said" weight="1.3358482344108742" />
+      <edge id="352" source="know" target="named" weight="1.6796763519759605" />
+      <edge id="353" source="know" target="tweets" weight="1.0970716627662298" />
+      <edge id="354" source="know" target="going" weight="1.179728974120331" />
+      <edge id="355" source="know" target="took" weight="0.6447717463382513" />
+      <edge id="356" source="know" target="called" weight="1.457745487760141" />
+      <edge id="357" source="know" target="pass" weight="1.3292620424568313" />
+      <edge id="358" source="know" target="evidence" weight="0.9917459790644643" />
+      <edge id="359" source="know" target="donald" weight="1.1832884137367734" />
+      <edge id="360" source="know" target="still" weight="0.6811200891623176" />
+      <edge id="361" source="know" target="ever" weight="1.3028254932786223" />
+      <edge id="362" source="know" target="war" weight="1.3812732949843978" />
+      <edge id="363" source="know" target="thing" weight="1.1479521887280015" />
+      <edge id="364" source="know" target="cover" weight="0.9733530197671258" />
+      <edge id="365" source="know" target="dont" weight="0.5823866806800742" />
+      <edge id="366" source="know" target="one" weight="1.1491364637059582" />
+      <edge id="367" source="know" target="time" weight="0.5256477788916196" />
+      <edge id="368" source="would" target="start" weight="0.6232752522001765" />
+      <edge id="369" source="would" target="married" weight="0.6106483344127484" />
+      <edge id="370" source="would" target="fuck" weight="0.6106522963016062" />
+      <edge id="371" source="would" target="try" weight="0.6106637888348943" />
+      <edge id="372" source="would" target="hell" weight="0.5185289278187295" />
+      <edge id="373" source="would" target="moved" weight="0.5565430117283168" />
+      <edge id="374" source="would" target="bitch" weight="0.5565471924685884" />
+      <edge id="375" source="would" target="even" weight="0.5007646243533906" />
+      <edge id="376" source="would" target="blocked" weight="0.5334879081256025" />
+      <edge id="377" source="would" target="kissing" weight="0.533595775989534" />
+      <edge id="378" source="would" target="message" weight="0.5335095258118407" />
+      <edge id="379" source="would" target="said" weight="0.9635711039858131" />
+      <edge id="380" source="would" target="named" weight="1.2125401448106192" />
+      <edge id="381" source="would" target="tweets" weight="0.7055323075240918" />
+      <edge id="382" source="would" target="going" weight="0.7251967084052855" />
+      <edge id="383" source="would" target="took" weight="0.3656734814941802" />
+      <edge id="384" source="would" target="called" weight="1.0064149878366682" />
+      <edge id="385" source="would" target="pass" weight="0.8905023603269223" />
+      <edge id="386" source="would" target="evidence" weight="0.39440758920162233" />
+      <edge id="387" source="start" target="married" weight="0.006054271539362128" />
+      <edge id="388" source="start" target="fuck" weight="0.006054429267034029" />
+      <edge id="389" source="start" target="try" weight="0.006054381645215588" />
+      <edge id="390" source="start" target="hell" weight="0.41580135489526193" />
+      <edge id="391" source="start" target="moved" weight="0.006564168002306208" />
+      <edge id="392" source="start" target="bitch" weight="0.006563764494252647" />
+      <edge id="393" source="start" target="even" weight="0.7166447072681317" />
+      <edge id="394" source="start" target="blocked" weight="0.006545585444456545" />
+      <edge id="395" source="start" target="kissing" weight="0.006530909889410851" />
+      <edge id="396" source="start" target="message" weight="0.006542485756582745" />
+      <edge id="397" source="married" target="fuck" weight="1.2125258411240419e-11" />
+      <edge id="398" source="married" target="try" weight="1.6607278551027027e-10" />
+      <edge id="399" source="married" target="hell" weight="0.3362128667733158" />
+      <edge id="400" source="married" target="moved" weight="0.0023028777862207734" />
+      <edge id="401" source="married" target="bitch" weight="0.0023025548903609747" />
+      <edge id="402" source="married" target="even" weight="0.7071549286413235" />
+      <edge id="403" source="married" target="blocked" weight="0.0064392443136783535" />
+      <edge id="404" source="married" target="kissing" weight="0.006427615481961012" />
+      <edge id="405" source="married" target="message" weight="0.006436928661538146" />
+      <edge id="406" source="fuck" target="try" weight="9.181817727348734e-11" />
+      <edge id="407" source="fuck" target="hell" weight="0.33621395313581826" />
+      <edge id="408" source="fuck" target="moved" weight="0.0023032152264644556" />
+      <edge id="409" source="fuck" target="bitch" weight="0.002302892307069465" />
+      <edge id="410" source="fuck" target="even" weight="0.7071588175409564" />
+      <edge id="411" source="fuck" target="blocked" weight="0.006439796156192466" />
+      <edge id="412" source="fuck" target="kissing" weight="0.006428166692211777" />
+      <edge id="413" source="fuck" target="message" weight="0.006437480376693056" />
+      <edge id="414" source="try" target="hell" weight="0.3362206864597302" />
+      <edge id="415" source="try" target="moved" weight="0.0023041121269831593" />
+      <edge id="416" source="try" target="bitch" weight="0.0023037891354166454" />
+      <edge id="417" source="try" target="even" weight="0.7071712688380013" />
+      <edge id="418" source="try" target="blocked" weight="0.0064411232125939685" />
+      <edge id="419" source="try" target="kissing" weight="0.0064294917577842605" />
+      <edge id="420" source="try" target="message" weight="0.006438806990593009" />
+      <edge id="421" source="hell" target="moved" weight="0.21085304840020244" />
+      <edge id="422" source="hell" target="bitch" weight="0.21085447298464557" />
+      <edge id="423" source="hell" target="even" weight="0.7594777104802537" />
+      <edge id="424" source="hell" target="blocked" weight="0.21831904129118396" />
+      <edge id="425" source="hell" target="kissing" weight="0.21835742046102166" />
+      <edge id="426" source="hell" target="message" weight="0.2183308371959555" />
+      <edge id="427" source="moved" target="bitch" weight="1.3156990396210017e-11" />
+      <edge id="428" source="moved" target="even" weight="0.6495726177241186" />
+      <edge id="429" source="moved" target="blocked" weight="0.0013549391590617476" />
+      <edge id="430" source="moved" target="kissing" weight="0.0013520839854348607" />
+      <edge id="431" source="moved" target="message" weight="0.0013544949008371192" />
+      <edge id="432" source="bitch" target="even" weight="0.6495769859188498" />
+      <edge id="433" source="bitch" target="blocked" weight="0.001355062117745663" />
+      <edge id="434" source="bitch" target="kissing" weight="0.001352206217723089" />
+      <edge id="435" source="bitch" target="message" weight="0.0013546176918131365" />
+      <edge id="436" source="even" target="blocked" weight="0.3363497292297756" />
+      <edge id="437" source="even" target="kissing" weight="0.3363949331475479" />
+      <edge id="438" source="even" target="message" weight="0.3363618847422418" />
+      <edge id="439" source="blocked" target="kissing" weight="1.0159103297673538e-08" />
+      <edge id="440" source="blocked" target="message" weight="1.0999737531775521e-09" />
+      <edge id="441" source="kissing" target="message" weight="6.629737542138196e-09" />
+      <edge id="442" source="said" target="named" weight="0.39996270483081087" />
+      <edge id="443" source="said" target="tweets" weight="0.312840339763256" />
+      <edge id="444" source="said" target="going" weight="0.3646845261617248" />
+      <edge id="445" source="said" target="took" weight="0.3296931480036218" />
+      <edge id="446" source="said" target="called" weight="0.2068919546394435" />
+      <edge id="447" source="said" target="pass" weight="0.18386988985736671" />
+      <edge id="448" source="said" target="evidence" weight="0.5034184720022126" />
+      <edge id="449" source="named" target="tweets" weight="0.3928671047860302" />
+      <edge id="450" source="named" target="going" weight="0.5574599185309757" />
+      <edge id="451" source="named" target="took" weight="0.5298608350231004" />
+      <edge id="452" source="named" target="called" weight="0.07978116896079064" />
+      <edge id="453" source="named" target="pass" weight="0.08547406360400323" />
+      <edge id="454" source="named" target="evidence" weight="0.8075669778638294" />
+      <edge id="455" source="tweets" target="going" weight="0.27520866995457227" />
+      <edge id="456" source="tweets" target="took" weight="0.42372015004427616" />
+      <edge id="457" source="tweets" target="called" weight="0.18144046727844454" />
+      <edge id="458" source="tweets" target="pass" weight="0.14836956381305738" />
+      <edge id="459" source="tweets" target="evidence" weight="0.30360968850066916" />
+      <edge id="460" source="going" target="took" weight="0.4617936141794455" />
+      <edge id="461" source="going" target="called" weight="0.30370535396141357" />
+      <edge id="462" source="going" target="pass" weight="0.2671137601757567" />
+      <edge id="463" source="going" target="evidence" weight="0.455778362282516" />
+      <edge id="464" source="took" target="called" weight="0.25802055303665994" />
+      <edge id="465" source="took" target="pass" weight="0.22705524408910982" />
+      <edge id="466" source="took" target="evidence" weight="0.3638201963907395" />
+      <edge id="467" source="called" target="pass" weight="0.004432312490083418" />
+      <edge id="468" source="called" target="evidence" weight="0.6328413529767589" />
+      <edge id="469" source="pass" target="evidence" weight="0.5376583875749483" />
+      <edge id="470" source="donald" target="still" weight="0.2615789561254737" />
+      <edge id="471" source="donald" target="ever" weight="0.6521824149584537" />
+      <edge id="472" source="donald" target="war" weight="0.09397824845524672" />
+      <edge id="473" source="donald" target="thing" weight="0.558626226556861" />
+      <edge id="474" source="donald" target="cover" weight="0.16839611511369437" />
+      <edge id="475" source="donald" target="dont" weight="0.5816572036656045" />
+      <edge id="476" source="donald" target="one" weight="1.0264974296813807" />
+      <edge id="477" source="donald" target="time" weight="0.5781393570346546" />
+      <edge id="478" source="still" target="ever" weight="0.7352302255573923" />
+      <edge id="479" source="still" target="war" weight="0.1744572437953037" />
+      <edge id="480" source="still" target="thing" weight="0.6590418287098245" />
+      <edge id="481" source="still" target="cover" weight="0.21976576977150714" />
+      <edge id="482" source="still" target="dont" weight="0.3695152221559476" />
+      <edge id="483" source="still" target="one" weight="0.7814878143548643" />
+      <edge id="484" source="still" target="time" weight="0.5876185762640621" />
+      <edge id="485" source="ever" target="war" weight="0.5954779169615827" />
+      <edge id="486" source="ever" target="thing" weight="0.6801261727403023" />
+      <edge id="487" source="ever" target="cover" weight="0.45381385764891624" />
+      <edge id="488" source="ever" target="dont" weight="0.40098351141580607" />
+      <edge id="489" source="ever" target="one" weight="0.4633832255316586" />
+      <edge id="490" source="ever" target="time" weight="0.6963636747264211" />
+      <edge id="491" source="war" target="thing" weight="0.5942578981743004" />
+      <edge id="492" source="war" target="cover" weight="0.1402255038725896" />
+      <edge id="493" source="war" target="dont" weight="0.5900936161185248" />
+      <edge id="494" source="war" target="one" weight="1.1816277998834686" />
+      <edge id="495" source="war" target="time" weight="0.48607864159577013" />
+      <edge id="496" source="thing" target="cover" weight="0.328540010362135" />
+      <edge id="497" source="thing" target="dont" weight="0.8201630379152818" />
+      <edge id="498" source="thing" target="one" weight="1.0381028388875306" />
+      <edge id="499" source="thing" target="time" weight="0.4468706764904188" />
+      <edge id="500" source="cover" target="dont" weight="0.341264038664142" />
+      <edge id="501" source="cover" target="one" weight="0.8587492857706519" />
+      <edge id="502" source="cover" target="time" weight="0.17872583494808672" />
+      <edge id="503" source="dont" target="one" weight="0.2720834334192065" />
+      <edge id="504" source="dont" target="time" weight="0.4029106958955487" />
+      <edge id="505" source="one" target="time" weight="0.9314927287602625" />
+    </edges>
+  </graph>
+</gexf>

@@ -2,7 +2,7 @@ from gensim import corpora
 from gensim import models
 
 from preprocessing.lazy_corpus import FileLazyCorpus, ListLazyCorpus
-from topic_modeling import TopicModeling
+from topic_modeling.topic_modeling_base import TopicModeling
 from visualization.topic_modeling_semantic_network import visualize_semantic_netwrok
 
 
@@ -26,16 +26,16 @@ class LatentSemanticIndexing(TopicModeling):
         tfidf = models.TfidfModel(corpus)
         self.corpus_tfidf = tfidf[corpus]
 
-        lazy_corpus.save_dictionary("word_models/dictionary.dict")
-        self.dictionary = corpora.Dictionary.load("word_models/dictionary.dict")
+        lazy_corpus.save_dictionary("../word_models/dictionary.dict")
+        self.dictionary = corpora.Dictionary.load("../word_models/dictionary.dict")
 
 
 
     def visualize_topics(self, ):
         topics = self.get_topics()
-        visualize_semantic_netwrok(topics,
+        visualize_semantic_netwrok(topics,[],
                                    visualize_method='plotly',
-                                   filename="outputs/lsi_out.html",
+                                   filename="../outputs/lsi_out.html",
                                    title='Latent Semantic Indexing')
 
 
@@ -60,5 +60,6 @@ if __name__ == "__main__":
     #     for tweet in tweets_text:
     #         file_writer.write(str(tweet) + "\n")
 
-    topic_modeling = LatentSemanticIndexing(file_name="word_models/tweets_donal_trump.txt")
+    #topic_modeling = LatentSemanticIndexing(file_name="../word_models/tweets_donal_trump.txt")
+    topic_modeling = LatentSemanticIndexing(file_name="../film_reviews.txt")
     topic_modeling.visualize_topics()

@@ -22,7 +22,7 @@ def visualize(G, node_size, weights, filename = "netwrokx", title=""):
     edge_trace = Scatter(
         x=[],
         y=[],
-        line=Line(width=[], color='rgba(136, 136, 136, .8)'),
+        line=Line(width=[], color=[]),
         hoverinfo='none',
         mode='lines')
 
@@ -32,8 +32,19 @@ def visualize(G, node_size, weights, filename = "netwrokx", title=""):
         edge_trace['x'] += [x0, x1, None]
         edge_trace['y'] += [y0, y1, None]
 
+    #TODO using color for edge strength instead of width
+
+    #weights = [weight/sum(weights) for weight in weights]
+    # for weight in weights:
+    #     edge_trace['line']['color'].append('rgba(1, 0, 1,'+ str(weight) + ')')
+
+
     for weight in weights:
-        edge_trace['line']['width'].append(weight)
+        a,b, c = np.random.randint(255), np.random.randint(255), np.random.randint(255)
+        col = 'rgb('+str(a)+','+str(b)+','+str(c)+')'
+        edge_trace['line']['color'].append(col)
+
+
 
     node_trace = Scatter(
         x=[],
